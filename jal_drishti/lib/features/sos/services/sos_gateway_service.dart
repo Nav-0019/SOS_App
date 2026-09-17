@@ -90,9 +90,6 @@ class SosGatewayService {
 
   Future<bool> _uploadSos(SosQueueMessage msg, String gatewayDeviceId) async {
     try {
-      final battery = Battery();
-      final batteryLevel = await battery.batteryLevel;
-
       final payload = {
         'sos_id': msg.sosId.isNotEmpty ? msg.sosId : 'UNKNOWN_SOS',
         'sender_id': msg.senderId.isNotEmpty ? msg.senderId : 'UNKNOWN_SENDER',
@@ -104,7 +101,7 @@ class SosGatewayService {
         'distress_type': _mapDistressType(msg.distressType),
         'message': msg.message ?? '',
         'people_trapped': msg.peopleTrapped,
-        'battery': batteryLevel,
+        'battery': msg.battery,
         'mesh_hops': msg.meshHops,
         'device_id': msg.deviceId ?? gatewayDeviceId,
         'gateway_id': gatewayDeviceId,

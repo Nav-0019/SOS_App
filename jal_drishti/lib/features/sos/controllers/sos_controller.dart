@@ -9,7 +9,7 @@ import 'package:geolocator/geolocator.dart';
 import 'package:intl/intl.dart';
 import 'package:signals_flutter/signals_flutter.dart';
 import 'package:telephony/telephony.dart';
-
+import 'package:battery_plus/battery_plus.dart';
 import '../../mesh/models/mesh_packet.dart';
 import '../../mesh/services/ble_mesh_service.dart';
 import '../admin_canned_messages.dart';
@@ -156,7 +156,7 @@ class SosController {
         'MED-01';
     final userName = await _storage.read(key: 'user_name') ?? 'Citizen';
     final userPhone =
-        await _storage.read(key: 'user_phone') ?? AdminContacts.userMobile;
+        await _storage.read(key: 'user_phone') ?? 'Unknown Number';
     final nodeId = await BleMeshService().getDeviceId();
 
     return _SosContext(
@@ -189,6 +189,7 @@ class SosController {
         'Trauma (Blood: ${ctx.bloodGroup}, ID: ${ctx.medicalId})';
 
     // 1. Attempt SMS Dispatch (SMS does not require internet / mobile data)
+    final batteryLevel = await Battery().batteryLevel;
     final rescueMessage = AdminCannedMessages.render(
       AdminCannedMessages.admRescue,
       {
@@ -199,7 +200,7 @@ class SosController {
         'ALT': ctx.alt.toStringAsFixed(1),
         'GROUP_COUNT': '1',
         'HAZARD_TYPE': hazardType,
-        'BATTERY': '85',
+        'BATTERY': batteryLevel.toString(),
       },
     );
 
@@ -240,8 +241,8 @@ class SosController {
         latitude: ctx.lat,
         longitude: ctx.lng,
         peopleTrapped: 1,
-        battery: 85, // Default/Placeholder for now
-        message: hazardType,
+        battery: batteryLevel,
+        message: rescueMessage,
       );
 
       final sosPayloadBytes = bleSos.encode();
@@ -261,11 +262,11 @@ class SosController {
         ..latitude = ctx.lat
         ..longitude = ctx.lng
         ..distressType = 4
-        ..message = hazardType
+        ..message = rescueMessage
         ..name = ctx.userName
         ..phone = ctx.userPhone
         ..peopleTrapped = 1
-        ..battery = 85
+        ..battery = batteryLevel
         ..meshHops = 0
         ..ttl = packet.ttl
         ..deviceId = ctx.nodeId
