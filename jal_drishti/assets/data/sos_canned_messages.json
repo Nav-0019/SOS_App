@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "compression_format": "PLAIN_TEXT_COMPACT",
+  "templates": [
+    {
+      "id": "TPL_FLASH_FLOOD_TRAPPED",
+      "title": "Trapped by Rising Water",
+      "short_code": "FLTRP",
+      "body_template": "EMERGENCY: Trapped by flash flood water. Need rescue. Pos: {LAT},{LNG} Alt:{ALT}m. Contacts: {MED_CONTACTS}. Sent via JalDrishti.",
+      "category": "CRITICAL"
+    },
+    {
+      "id": "TPL_LANDSLIDE_BLOCKED",
+      "title": "Road Landslide / Blockade",
+      "short_code": "LDSLD",
+      "body_template": "HAZARD: Road blocked by major landslide. Cannot move forward/backward. Pos: {LAT},{LNG}. Sent via JalDrishti.",
+      "category": "HAZARD"
+    },
+    {
+      "id": "TPL_MEDICAL_INJURY",
+      "title": "Critical Medical Aid Needed",
+      "short_code": "MEDIC",
+      "body_template": "MEDICAL EMERGENCY: Severe injury reported. Needs urgent evacuation/first-aid. BloodGrp: {BLOOD_GRP}. Pos: {LAT},{LNG}. Sent via JalDrishti.",
+      "category": "MEDICAL"
+    },
+    {
+      "id": "TPL_SHELTER_SAFE",
+      "title": "Reached Safe Location",
+      "short_code": "SAFE",
+      "body_template": "STATUS OK: I am safe at shelter/higher ground. Pos: {LAT},{LNG}. Battery: {BATTERY}%. Sent via JalDrishti.",
+      "category": "STATUS"
+    },
+    {
+      "id": "TPL_NO_FOOD_WATER",
+      "title": "Rations & Drinking Water Depleted",
+      "short_code": "RATN",
+      "body_template": "RESOURCENEEDED: No clean water/food left at current group location. Group size: {GROUP_COUNT}. Pos: {LAT},{LNG}. Sent via JalDrishti.",
+      "category": "SUPPLIES"
+    }
+  ]
+}

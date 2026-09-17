@@ -1,0 +1,5897 @@
+[
+  {
+    "id": "hosp_342106701",
+    "name": "Naini",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.65609,
+    "longitude": 79.92633,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_583884416",
+    "name": "Landour Community hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.45898,
+    "longitude": 78.09511,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_1697822274",
+    "name": "Heart Clinic",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31794,
+    "longitude": 78.05002,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_1697822276",
+    "name": "General Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.3194,
+    "longitude": 78.05032,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_1854105148",
+    "name": "CMI",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31219,
+    "longitude": 78.04749,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_1887554875",
+    "name": "Ashirwad Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.3329,
+    "longitude": 78.00862,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_1887561123",
+    "name": "Astha Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33297,
+    "longitude": 78.01011,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_2054741736",
+    "name": "Wynberg Health Center",
+    "type": "hospital",
+    "emergency": "no",
+    "latitude": 30.44881,
+    "longitude": 78.09017,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_2364476889",
+    "name": "Hospital (30.572, 78.004)",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.5721,
+    "longitude": 78.00435,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_3663758312",
+    "name": "Dr. Usha's Nirvana Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.12816,
+    "longitude": 78.32177,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_3663758313",
+    "name": "Dr. Arora's Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.12821,
+    "longitude": 78.32242,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_3709894659",
+    "name": "Synergy Hospital;Synergy Institute Of Medical Science",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.3381,
+    "longitude": 78.01354,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4037486796",
+    "name": "Ramkrishan Mission Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93298,
+    "longitude": 78.14811,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4037497456",
+    "name": "Matrichaya Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93165,
+    "longitude": 78.13659,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4037544755",
+    "name": "City Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93375,
+    "longitude": 78.13363,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4037544756",
+    "name": "City Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93344,
+    "longitude": 78.13375,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4129769756",
+    "name": "Hospital (30.107, 78.290)",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.1069,
+    "longitude": 78.2899,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4165218454",
+    "name": "SUBHARTI HOSPITAL",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.34309,
+    "longitude": 77.9596,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4165237313",
+    "name": "INFIRMARY",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.41697,
+    "longitude": 77.96767,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4254504792",
+    "name": "Government Doon Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.3196,
+    "longitude": 78.0423,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4255814491",
+    "name": "wedding by fourth munky",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31843,
+    "longitude": 78.04248,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_4383828294",
+    "name": "Ayurveda Center",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.12396,
+    "longitude": 78.32992,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_5296886723",
+    "name": "GOVERNMENT VETERINARY HOSPITAL",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.73394,
+    "longitude": 78.42594,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6581821447",
+    "name": "Deen Dayal Upadhyay hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32078,
+    "longitude": 78.05767,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6766523849",
+    "name": "Mother And Child Hospital, Haridwar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87223,
+    "longitude": 77.87628,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6895578193",
+    "name": "AIIMS's Blood Bank Rishikesh",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.08088,
+    "longitude": 78.28613,
+    "phone": "0135-2462967"
+  },
+  {
+    "id": "hosp_6897688071",
+    "name": "AIIMS Blood Bank, Rishikesh",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.08088,
+    "longitude": 78.28648,
+    "phone": "1352462967"
+  },
+  {
+    "id": "hosp_6950253649",
+    "name": "Baunthiyal Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.28373,
+    "longitude": 77.99774,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590486",
+    "name": "Lavanya Hospital, Udham Singh Nagar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.2109,
+    "longitude": 78.9373,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590491",
+    "name": "St. Joseph's Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86803,
+    "longitude": 77.88572,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590496",
+    "name": "Sambhavi Hospital Maternity Home",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21919,
+    "longitude": 79.51552,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590501",
+    "name": "Gupta Health Care",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.91774,
+    "longitude": 79.51947,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590506",
+    "name": "Shri Mahant Indiresh Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.30478,
+    "longitude": 78.0209,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590507",
+    "name": "Amrit Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.97182,
+    "longitude": 79.3946,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590512",
+    "name": "Aadya heart care centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.31892,
+    "longitude": 78.05064,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590517",
+    "name": "Dr. Turna Surgical Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.92072,
+    "longitude": 79.69973,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590527",
+    "name": "Pragati Hospital and Physiotherapy Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20562,
+    "longitude": 78.94214,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590540",
+    "name": "Drishti Eye Institute",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.32754,
+    "longitude": 78.04794,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590545",
+    "name": "Sarthak Nursing Home, Haridwar",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.86695,
+    "longitude": 77.88702,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590555",
+    "name": "Hi - Tech Eye And Laser Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21463,
+    "longitude": 78.95546,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590565",
+    "name": "Karnatic Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.33801,
+    "longitude": 80.09433,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590570",
+    "name": "Tewari Maternity Center and Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21701,
+    "longitude": 79.51806,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590575",
+    "name": "Atul Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87271,
+    "longitude": 77.88167,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950590580",
+    "name": "Surya Hospital, Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.29094,
+    "longitude": 78.04985,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950595585",
+    "name": "National Hospital, Haridwar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.76155,
+    "longitude": 78.03636,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950595594",
+    "name": "Param Hospital, Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.30683,
+    "longitude": 78.05405,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950595599",
+    "name": "Gupta Nursing Home and Heart Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21396,
+    "longitude": 78.96402,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950595604",
+    "name": "Ramakrishna Mission Sevashrama, Haridwar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93259,
+    "longitude": 78.14753,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950595609",
+    "name": "CGHS Dispensary",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.31089,
+    "longitude": 78.01214,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950595614",
+    "name": "Chamunda Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.22231,
+    "longitude": 78.96609,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950595625",
+    "name": "Jagdamba Heat Care and Maternity Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21861,
+    "longitude": 79.51732,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950865497",
+    "name": "Ananya Maternity and Medical Center",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.92344,
+    "longitude": 78.11775,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950884628",
+    "name": "Anand Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.86853,
+    "longitude": 77.87978,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950886264",
+    "name": "Anant Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.8687,
+    "longitude": 77.88034,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950904473",
+    "name": "Yash Respiratory and Medical Disease Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31635,
+    "longitude": 78.05441,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950932664",
+    "name": "Abhilasha Eye+ Maternity Hospital",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.85653,
+    "longitude": 77.87925,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950964468",
+    "name": "Vishal Eye Hospital, Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33637,
+    "longitude": 78.02238,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950969272",
+    "name": "Vardaan Children Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33388,
+    "longitude": 78.02355,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950985617",
+    "name": "Meher Hospital (Vaish Nursing Home)",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.33506,
+    "longitude": 78.06017,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950986960",
+    "name": "Joshi Hospital, Udham Singh Nagar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20567,
+    "longitude": 78.95329,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950986965",
+    "name": "Jyoti Ent centre And Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22455,
+    "longitude": 78.96679,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6950999156",
+    "name": "Vaidya Chandra Prakash Cancer Research Foundation",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.28204,
+    "longitude": 78.00252,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951002353",
+    "name": "Uttranchal Ayurvedic Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.38206,
+    "longitude": 78.08864,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951037662",
+    "name": "Jeevandeep Hospital, Udham Singh Nagar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98453,
+    "longitude": 79.40045,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951076339",
+    "name": "Joshi Health Care Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.91646,
+    "longitude": 79.96665,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951104297",
+    "name": "Jeevan Rekha Hospital, Udham Singh Nagar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.23672,
+    "longitude": 78.9647,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951133509",
+    "name": "Harisar Hospital Child And Maternity Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98674,
+    "longitude": 79.40105,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951133514",
+    "name": "Jamuna Memorial Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.91616,
+    "longitude": 79.9652,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951150099",
+    "name": "Guru Ramdas Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.94068,
+    "longitude": 79.79985,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951174600",
+    "name": "Ahan Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98243,
+    "longitude": 79.39813,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951177665",
+    "name": "Ambeka Eye Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20462,
+    "longitude": 78.97073,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951329783",
+    "name": "Arora Bone Hospital and Surgical Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.90625,
+    "longitude": 79.5068,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951332936",
+    "name": "Atul Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98116,
+    "longitude": 79.39764,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951338325",
+    "name": "Ananya Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.22483,
+    "longitude": 78.96084,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951338696",
+    "name": "Anita Memorial Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.19901,
+    "longitude": 78.97955,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951364080",
+    "name": "Bhagwati Devi Eye Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20072,
+    "longitude": 78.98045,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951370636",
+    "name": "Ayushman Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.16798,
+    "longitude": 79.15042,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951379644",
+    "name": "B. D. Pathak Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98185,
+    "longitude": 79.39892,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951426983",
+    "name": "Chamunda Surgical and Leaposcopy Center",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22221,
+    "longitude": 78.96588,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951435657",
+    "name": "Child Care Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.9827,
+    "longitude": 79.39809,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951454905",
+    "name": "Childrens Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21736,
+    "longitude": 78.96505,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951706678",
+    "name": "Government Medical College Hospital, Haldwani",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20664,
+    "longitude": 79.52151,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951729041",
+    "name": "Brahma Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.859,
+    "longitude": 77.88041,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951822145",
+    "name": "Chandan Memorial Clinic and Lokpriya Hospital",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.92706,
+    "longitude": 78.10794,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951884828",
+    "name": "Devbhoomi Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93168,
+    "longitude": 78.13516,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951902867",
+    "name": "Dev Nursing Home - Roorkee",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.86281,
+    "longitude": 77.87879,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951951139",
+    "name": "CHC Doiwala",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.17982,
+    "longitude": 78.12321,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951957224",
+    "name": "Chauhan Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.47196,
+    "longitude": 77.77671,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951960632",
+    "name": "Chaurasia Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.31836,
+    "longitude": 78.05274,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951986574",
+    "name": "Guru Teg Bahadur Sahib Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31122,
+    "longitude": 78.04785,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951991798",
+    "name": "Govind Hospital, Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.28285,
+    "longitude": 78.06852,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6951994311",
+    "name": "Healing Touch Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32713,
+    "longitude": 78.06582,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952010057",
+    "name": "Hari Ram Kohli Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.31525,
+    "longitude": 78.04369,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952073470",
+    "name": "Kala E.N.T And Laser Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.2876,
+    "longitude": 78.02314,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952104090",
+    "name": "Herbertpur Christian Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.44832,
+    "longitude": 77.75545,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952104642",
+    "name": "Jan Kalyan Hospital And Research Insititute",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33164,
+    "longitude": 78.05384,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952106515",
+    "name": "Kiranti Nursing and Maternity Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.35295,
+    "longitude": 78.02536,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952110670",
+    "name": "Kanishk Surgical and Super Speciality Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.2918,
+    "longitude": 78.0509,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952128589",
+    "name": "Jeevan Jyoti Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.27893,
+    "longitude": 78.00124,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952139077",
+    "name": "Kamra`s Urinary and Surgical Diseasea Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31431,
+    "longitude": 78.05239,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952147102",
+    "name": "Ayurmax Multispeciality Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32361,
+    "longitude": 78.01471,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952161744",
+    "name": "Bhandari Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.46944,
+    "longitude": 77.76673,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952166447",
+    "name": "Bhartari Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.33379,
+    "longitude": 78.02085,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6952173379",
+    "name": "Shiv Shakti Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.92087,
+    "longitude": 78.13881,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953071745",
+    "name": "Nisha Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.32477,
+    "longitude": 78.0047,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953071750",
+    "name": "Nanhe Munnon Ka Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86667,
+    "longitude": 77.87902,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953071758",
+    "name": "Richhariya Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20453,
+    "longitude": 78.95279,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953071763",
+    "name": "Sirohi Bone Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20509,
+    "longitude": 78.96955,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953071770",
+    "name": "Sai Hospital, Nainital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21729,
+    "longitude": 79.51809,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953071775",
+    "name": "Ganga Valley Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.92438,
+    "longitude": 78.13727,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953083990",
+    "name": "Sanjivani Hospital, Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32472,
+    "longitude": 78.00506,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953276702",
+    "name": "Sondhi Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.9242,
+    "longitude": 78.11944,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953276749",
+    "name": "Doon Eye Care",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.46873,
+    "longitude": 77.76645,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953276754",
+    "name": "St. Marys Hospital, Udham Singh Nagar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.15895,
+    "longitude": 79.13718,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953276759",
+    "name": "Govind Singh Nehra Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.64338,
+    "longitude": 79.43896,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953276765",
+    "name": "Sood Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20481,
+    "longitude": 78.94992,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953276770",
+    "name": "Rawal Nursing Home and Polyclinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.31902,
+    "longitude": 78.05067,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953276771",
+    "name": "Ashadeep Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31844,
+    "longitude": 78.02905,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953276776",
+    "name": "Ganga Mata Charitable Eye Hospital and Research Institute",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.98924,
+    "longitude": 78.19269,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953276781",
+    "name": "Rastogi Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.20679,
+    "longitude": 78.96676,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953301796",
+    "name": "Dr. Shiromani Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87306,
+    "longitude": 77.88495,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953301797",
+    "name": "Sharda Surgical and Urology Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31534,
+    "longitude": 78.0512,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953301802",
+    "name": "Tewari Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.32674,
+    "longitude": 78.03133,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953301807",
+    "name": "L.D. Bhatt Govt Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21887,
+    "longitude": 78.96383,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953301812",
+    "name": "Shri J.N.S.M. Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87823,
+    "longitude": 77.8783,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953552499",
+    "name": "Govardhan Tiwari Rajkiya Base Hospital Almora",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.59293,
+    "longitude": 79.63858,
+    "phone": "05962-230557"
+  },
+  {
+    "id": "hosp_6953552504",
+    "name": "Oli Eye Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31035,
+    "longitude": 78.04852,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953552509",
+    "name": "Preet Maternity Home And Ent Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.92547,
+    "longitude": 78.12344,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953552514",
+    "name": "Bhagwati Hospital Pvt Ltd",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86903,
+    "longitude": 77.88009,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953552515",
+    "name": "Sitapur Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.75031,
+    "longitude": 78.52397,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953552520",
+    "name": "Kastoori Nursing Home, Haridwar",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.86687,
+    "longitude": 77.87863,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953552525",
+    "name": "Sanjay Orthopaedic and Spine Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.36441,
+    "longitude": 78.06775,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953594366",
+    "name": "Pal Nursing Home and Maternity Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.92463,
+    "longitude": 79.95858,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953641697",
+    "name": "Narendra Heart Center (Only For Sahara)",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21581,
+    "longitude": 78.96389,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953658577",
+    "name": "Mehrotra Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20383,
+    "longitude": 78.94811,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953689258",
+    "name": "Anjali Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.59707,
+    "longitude": 79.65635,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953738074",
+    "name": "Dr Mehras Nursing Home and Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93306,
+    "longitude": 78.13584,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953770681",
+    "name": "M N Srivastava Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.60195,
+    "longitude": 79.6523,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953826077",
+    "name": "Mahavir Childen Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86984,
+    "longitude": 77.88111,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953845203",
+    "name": "Lilawati Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93254,
+    "longitude": 78.07192,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953852979",
+    "name": "Lakshmi Nursing Home, Haridwar",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.85693,
+    "longitude": 77.87989,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953930189",
+    "name": "Garg ENT and Dental Clinic",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31757,
+    "longitude": 78.03337,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953932199",
+    "name": "Rewati Nursing Home, Dehradun",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.29881,
+    "longitude": 78.05125,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6953935730",
+    "name": "Renal Care and Dialysis Center",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.3152,
+    "longitude": 78.05132,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954089422",
+    "name": "Bd Pandey District Male Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58745,
+    "longitude": 80.2112,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954105522",
+    "name": "Vinay Nursing Home, Haridwar",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87599,
+    "longitude": 77.88801,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954268531",
+    "name": "Yashlok Hospital, Haridwar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.8789,
+    "longitude": 77.87633,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954284920",
+    "name": "Agarawal Clinic & Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22078,
+    "longitude": 79.52291,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954359357",
+    "name": "Suri Nursing Home, Dehradun",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.31015,
+    "longitude": 78.06011,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954413471",
+    "name": "R.K. Hospital, Udham Singh Nagar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.22661,
+    "longitude": 78.9721,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954415814",
+    "name": "Radheyshyam Memorial Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.22613,
+    "longitude": 78.9713,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954421585",
+    "name": "Sanjeevani Nursing Home, Udham Singh Nagar",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.20714,
+    "longitude": 78.96688,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954456914",
+    "name": "Prakash Eye Hospital And Laser Centre, Udham Singh Nagar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98191,
+    "longitude": 79.39727,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954506663",
+    "name": "Shivanjan Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31251,
+    "longitude": 78.02195,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954513193",
+    "name": "Shed Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.17739,
+    "longitude": 78.12955,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954522231",
+    "name": "SGRR Medical College hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.30297,
+    "longitude": 78.02146,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954547189",
+    "name": "Anand Hospital & Research Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.9235,
+    "longitude": 79.96573,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954923280",
+    "name": "Arpit Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87066,
+    "longitude": 77.87632,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954923281",
+    "name": "Bhatnagar Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.85808,
+    "longitude": 77.87811,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954924474",
+    "name": "Devki Nandan Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21061,
+    "longitude": 78.96073,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954957786",
+    "name": "Bhargava Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.85675,
+    "longitude": 77.87964,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954960842",
+    "name": "Dr Futelas Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98185,
+    "longitude": 79.39965,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954960871",
+    "name": "Dr. Pandes Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.15268,
+    "longitude": 79.1466,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954972076",
+    "name": "City Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.20408,
+    "longitude": 78.9704,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954976960",
+    "name": "Dr Vishal Rastogi hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98224,
+    "longitude": 79.39745,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6954999767",
+    "name": "Archana Hospital & Lithotripsy Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33248,
+    "longitude": 78.02231,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6955008110",
+    "name": "Ananda Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.29117,
+    "longitude": 78.05799,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6955029549",
+    "name": "Asha Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.28448,
+    "longitude": 78.06454,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686288",
+    "name": "Shri Swami Bhumanand Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.91642,
+    "longitude": 78.08243,
+    "phone": "084494 49955"
+  },
+  {
+    "id": "hosp_6956686293",
+    "name": "Hemant Hospital, Haridwar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86231,
+    "longitude": 77.87858,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686298",
+    "name": "Saini Ivf and Fertility Research Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.34099,
+    "longitude": 78.05934,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686303",
+    "name": "Singhal Clinic and Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21458,
+    "longitude": 78.96406,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686308",
+    "name": "Child Care and Maternity Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.75404,
+    "longitude": 78.52441,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686313",
+    "name": "Navjyoti Eye Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.29834,
+    "longitude": 78.0531,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686342",
+    "name": "Government Mela Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.95141,
+    "longitude": 78.15782,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686347",
+    "name": "Minocha Hospital and Maternity Home",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.29196,
+    "longitude": 77.99869,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686352",
+    "name": "Pandit Hargovind Pant District Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.59797,
+    "longitude": 79.65883,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686357",
+    "name": "Chaudhary Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.22077,
+    "longitude": 78.77901,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956686362",
+    "name": "Bombay Hospital and Research Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.23486,
+    "longitude": 79.53304,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956959632",
+    "name": "Saharan Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.86568,
+    "longitude": 77.87892,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956959638",
+    "name": "Surabhi Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.98057,
+    "longitude": 79.4011,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956959643",
+    "name": "Kishore Hospital and Endoscopy Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.91283,
+    "longitude": 79.50287,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6956959648",
+    "name": "Manya Dental Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.29368,
+    "longitude": 78.0748,
+    "phone": "0135 266 2933"
+  },
+  {
+    "id": "hosp_6956959653",
+    "name": "Shyam Lal Shah Gangola District Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.83953,
+    "longitude": 79.77551,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957050048",
+    "name": "Neelkanth Netralaya",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.9166,
+    "longitude": 78.13727,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957061698",
+    "name": "Naveen Eye Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86265,
+    "longitude": 77.87866,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957139340",
+    "name": "The Eye Clinic Centre For Retina and Laser",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.32705,
+    "longitude": 78.0314,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957204721",
+    "name": "Doon Valley Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.312,
+    "longitude": 78.048,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957891041",
+    "name": "Prem Sukh B Hospital And Dailysis Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31837,
+    "longitude": 78.02417,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957923810",
+    "name": "Dr. Rukmani Nursing Home",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.32639,
+    "longitude": 78.04289,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957928419",
+    "name": "Amritsar Eye Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.32041,
+    "longitude": 78.05095,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957931047",
+    "name": "S. K. Memorial Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32882,
+    "longitude": 78.05248,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957963190",
+    "name": "Dr. Rajesh Tewari Clinic",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.32594,
+    "longitude": 78.03305,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957974287",
+    "name": "Krishna Surgical Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.47087,
+    "longitude": 77.77925,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957987679",
+    "name": "Dr Renu Jagdish Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58442,
+    "longitude": 80.20407,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6957991230",
+    "name": "Lifeline Hospital and Urology Institute",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.2951,
+    "longitude": 78.05303,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6958007029",
+    "name": "Sanjeevan Hospital, Haridwar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.85715,
+    "longitude": 77.88111,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6958010670",
+    "name": "Shatabdi Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93372,
+    "longitude": 78.07176,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6958012396",
+    "name": "Tulsi Hospital, Haridwar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.85857,
+    "longitude": 77.87723,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6958036942",
+    "name": "Tapan Hospital and Research Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.92323,
+    "longitude": 79.96561,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6958039421",
+    "name": "Eye-Q Super Speciality Eye Hospitals, Roorkee",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86852,
+    "longitude": 77.88021,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6958050453",
+    "name": "Sakya Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.37926,
+    "longitude": 78.08816,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6958051109",
+    "name": "S K Nursing Home and Hospital and Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22422,
+    "longitude": 79.53141,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6958096955",
+    "name": "Singh Eye Clinic and Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.30836,
+    "longitude": 78.04917,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6988304581",
+    "name": "Vohra Hospital, Sirmaur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.43921,
+    "longitude": 77.62364,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6988583114",
+    "name": "Civil Hospital, Paonta Sahib",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.43707,
+    "longitude": 77.62048,
+    "phone": "01704-222172"
+  },
+  {
+    "id": "hosp_6990762315",
+    "name": "Puran Hospital, Sirmaur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.44727,
+    "longitude": 77.64336,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_6993508901",
+    "name": "Himachal Institute of Dental Sciences Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.44749,
+    "longitude": 77.64478,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752304",
+    "name": "Government Hospital Mehuwala",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.3115,
+    "longitude": 77.98217,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752307",
+    "name": "Banbasa Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.99061,
+    "longitude": 80.07664,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752312",
+    "name": "Kota Murad Nagar Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.96552,
+    "longitude": 77.95705,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752314",
+    "name": "Toli Dudharkhal Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87214,
+    "longitude": 78.7993,
+    "phone": "01386-262343"
+  },
+  {
+    "id": "hosp_7121752315",
+    "name": "Government Hospital Imlikhera",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.93416,
+    "longitude": 77.89868,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752316",
+    "name": "Government civil Hospital, Bannakhera",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.24301,
+    "longitude": 79.15946,
+    "phone": "5949282201"
+  },
+  {
+    "id": "hosp_7121752318",
+    "name": "Cantt General Hospital Lansdowne",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.84047,
+    "longitude": 78.68335,
+    "phone": "01386-262343"
+  },
+  {
+    "id": "hosp_7121752319",
+    "name": "Sakaniya Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.03664,
+    "longitude": 79.17621,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752320",
+    "name": "Bageshwar Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.83998,
+    "longitude": 79.77433,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752321",
+    "name": "Kafra Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.7244,
+    "longitude": 79.43778,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752332",
+    "name": "Government Hospital, Bara",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.86784,
+    "longitude": 79.60424,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752335",
+    "name": "Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.99618,
+    "longitude": 79.54238,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752339",
+    "name": "St. Marry Hospital Mussoorie",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.45643,
+    "longitude": 78.08091,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752341",
+    "name": "Champawat District Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.33216,
+    "longitude": 80.09288,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752343",
+    "name": "Government Hospital, Buggawala",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.08328,
+    "longitude": 77.90126,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752348",
+    "name": "Dhamdeval Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87118,
+    "longitude": 79.32333,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752349",
+    "name": "Hospital (29.753, 78.527)",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.7525,
+    "longitude": 78.52678,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752350",
+    "name": "Government Female Hospital, Pithoragarh",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58623,
+    "longitude": 80.21328,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752353",
+    "name": "Government Hospital premnagar Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33549,
+    "longitude": 77.96683,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752354",
+    "name": "Chaukhutiya Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.88464,
+    "longitude": 79.35041,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752359",
+    "name": "Government Hospital Muwani",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.75073,
+    "longitude": 80.13317,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752365",
+    "name": "Government Hospital, sitarganj",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.93012,
+    "longitude": 79.71261,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7121752374",
+    "name": "Ram Dutt Joshi Hospital Ramnagar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.39176,
+    "longitude": 79.12498,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949278",
+    "name": "Government Hospital Tiuni",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.94294,
+    "longitude": 77.84798,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949280",
+    "name": "Government Hospital, Kherakhal",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.21778,
+    "longitude": 78.91582,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949286",
+    "name": "Chandramohan Singh Negi Base Government Combined Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.75109,
+    "longitude": 78.52423,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949287",
+    "name": "Government Ayurvedic Hospital, Lalpur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.93774,
+    "longitude": 79.46725,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949288",
+    "name": "Godi Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.88264,
+    "longitude": 79.38014,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949289",
+    "name": "Naugaonkhal Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.96291,
+    "longitude": 78.86358,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949291",
+    "name": "Baurari District Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.38033,
+    "longitude": 78.43709,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949292",
+    "name": "Ashgoli Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.7347,
+    "longitude": 79.39805,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949297",
+    "name": "Government Hospital, Baldogi",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.51557,
+    "longitude": 78.38631,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949302",
+    "name": "Chakarpur PHC",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.95744,
+    "longitude": 80.0063,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949303",
+    "name": "Govardhan Tiwari Rajkiya Base Hospital Almora",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.59311,
+    "longitude": 79.63766,
+    "phone": "05962-230557"
+  },
+  {
+    "id": "hosp_7127949304",
+    "name": "Deghat Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.90104,
+    "longitude": 79.22441,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949305",
+    "name": "Pabau Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.09711,
+    "longitude": 78.87624,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949308",
+    "name": "Government Hospital, Bailparav",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.31068,
+    "longitude": 79.20305,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949311",
+    "name": "Government Hospital, Mori",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 31.0198,
+    "longitude": 78.04465,
+    "phone": "1373234486"
+  },
+  {
+    "id": "hosp_7127949314",
+    "name": "Patisain Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.98114,
+    "longitude": 78.78089,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949320",
+    "name": "Government Hospital, Chamba",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.35173,
+    "longitude": 78.39315,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949324",
+    "name": "Bhatraunj Khan Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.5942,
+    "longitude": 79.29596,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949325",
+    "name": "Combined Hospital Tanakpur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.07011,
+    "longitude": 80.1158,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949329",
+    "name": "Dwarahat Dispensary",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.75688,
+    "longitude": 79.42706,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949331",
+    "name": "Nainidanda Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.73618,
+    "longitude": 79.0157,
+    "phone": "1346225573"
+  },
+  {
+    "id": "hosp_7127949332",
+    "name": "Government Hospital, Nakot",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31666,
+    "longitude": 78.46742,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949336",
+    "name": "Government Hospital Chakrata",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.70516,
+    "longitude": 77.85479,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949339",
+    "name": "District Hospital Rudraprayag",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.28647,
+    "longitude": 78.9815,
+    "phone": "01364-233542"
+  },
+  {
+    "id": "hosp_7127949344",
+    "name": "Government Hospital, Jhabreda",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.81124,
+    "longitude": 77.76959,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949346",
+    "name": "Nandprayag Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33166,
+    "longitude": 79.32103,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7127949348",
+    "name": "DH Pauri",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.15084,
+    "longitude": 78.77369,
+    "phone": "1368222086"
+  },
+  {
+    "id": "hosp_7127949349",
+    "name": "Goverment Hospital, Nanakmatta",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.9464,
+    "longitude": 79.81343,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7165506389",
+    "name": "Government Ayurvedic Health Centre, Bhagani",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.48691,
+    "longitude": 77.73686,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937212",
+    "name": "Dr. Kathait Eye Care Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.40972,
+    "longitude": 79.31738,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937213",
+    "name": "Government Medical College Hospital, Almora",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.60514,
+    "longitude": 79.64586,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937214",
+    "name": "Mother and Child Care Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.33419,
+    "longitude": 78.06212,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937215",
+    "name": "Government Hospital, Karnaprayag",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.2603,
+    "longitude": 79.21499,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937216",
+    "name": "Parkhal Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.14074,
+    "longitude": 79.40129,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937217",
+    "name": "Physiotherapy Care Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.5994,
+    "longitude": 79.65927,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937218",
+    "name": "Raj Hospital And Diagnostic Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.35249,
+    "longitude": 77.93634,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937219",
+    "name": "Jai Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.05644,
+    "longitude": 79.29048,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937221",
+    "name": "Dr. Kala ENT Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.31935,
+    "longitude": 78.04339,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937222",
+    "name": "Swasthya Multispeciality Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.33399,
+    "longitude": 77.96326,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937223",
+    "name": "Bisht Eye Clinic and Optical",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.90264,
+    "longitude": 79.6144,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937224",
+    "name": "Trauma Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.26326,
+    "longitude": 79.21517,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937225",
+    "name": "Dr. Rekha Srivastava",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.3301,
+    "longitude": 78.05641,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937226",
+    "name": "Governnment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.88011,
+    "longitude": 79.98107,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937227",
+    "name": "Aarogyadham Super Speciality Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31916,
+    "longitude": 78.04302,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937229",
+    "name": "Ghavle Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.26869,
+    "longitude": 78.07874,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937232",
+    "name": "Lakva Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.34695,
+    "longitude": 77.96644,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937233",
+    "name": "Eye Q India",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.58407,
+    "longitude": 79.64062,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937234",
+    "name": "ECHS Poly Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.28932,
+    "longitude": 79.25421,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937236",
+    "name": "New Look Laser Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.3379,
+    "longitude": 78.05687,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937237",
+    "name": "Jeewan Jyoti Women Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.59699,
+    "longitude": 79.65677,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937238",
+    "name": "Governnment Hospital, Tuneda",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.18099,
+    "longitude": 79.37232,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937239",
+    "name": "Pipalkoti SD Ground Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.43346,
+    "longitude": 79.43029,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937240",
+    "name": "Dr. Bangali Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.33235,
+    "longitude": 78.06315,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937241",
+    "name": "Sitapur Eye Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.5918,
+    "longitude": 79.64953,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937242",
+    "name": "Navjyoti Eye Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.40974,
+    "longitude": 79.31703,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937245",
+    "name": "Dr. Meenu Vaish",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.33222,
+    "longitude": 78.05938,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937246",
+    "name": "Vohra Mother & Child Care Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33431,
+    "longitude": 77.96732,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937247",
+    "name": "Dr.S.S Mehara Clinic",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.90474,
+    "longitude": 79.616,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937248",
+    "name": "Charitable Hospital, Mayavati Ashrama",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.37409,
+    "longitude": 80.06112,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937249",
+    "name": "Dr. Satish Kumar-Dental Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.33623,
+    "longitude": 77.96053,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937250",
+    "name": "Mayawati Gaushala and Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.39508,
+    "longitude": 80.08342,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937253",
+    "name": "Apex Super-Speciality Eye Care",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.26338,
+    "longitude": 78.09469,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937254",
+    "name": "Berkandai Tharali Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.07245,
+    "longitude": 79.50346,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937256",
+    "name": "CMI Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31679,
+    "longitude": 78.04376,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937257",
+    "name": "M.M. Gupta Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.33333,
+    "longitude": 77.96097,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937258",
+    "name": "Government Hospital, Matela Almora",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.80369,
+    "longitude": 79.19089,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937259",
+    "name": "Farswan Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.25889,
+    "longitude": 79.44973,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937261",
+    "name": "Om Shanti Paediatric Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.5987,
+    "longitude": 79.65789,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937262",
+    "name": "Doon Public Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.27135,
+    "longitude": 78.08076,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937263",
+    "name": "Pathak Urology & Stone Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.31921,
+    "longitude": 78.046,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937264",
+    "name": "ITBP Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.28714,
+    "longitude": 79.14518,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937265",
+    "name": "Semwal Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.26022,
+    "longitude": 79.21756,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937266",
+    "name": "Dr. J B Joshi",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.28827,
+    "longitude": 78.06419,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937267",
+    "name": "Subharti Hospital and College",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.34374,
+    "longitude": 77.96646,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937268",
+    "name": "Aashirwad Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.89712,
+    "longitude": 79.60839,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937269",
+    "name": "Tammanna Eye Care & Optical Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.40944,
+    "longitude": 79.31803,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937270",
+    "name": "Dr. Rakesh ENT Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.31159,
+    "longitude": 78.04803,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937271",
+    "name": "Government Hospital, Jalmani",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87927,
+    "longitude": 79.97476,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937272",
+    "name": "Jeevan Anmol Nursing Home",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.3326,
+    "longitude": 80.0891,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937273",
+    "name": "Dr. Tulika Priyadarshni",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.33688,
+    "longitude": 77.95626,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937274",
+    "name": "Punetha Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.4011,
+    "longitude": 80.08975,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937275",
+    "name": "Surya Diagnostic Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.90596,
+    "longitude": 79.61623,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937276",
+    "name": "Gaur Ortho And Gynae Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.30449,
+    "longitude": 78.05092,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937278",
+    "name": "Bright Smile Multispeciality Dental Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.25703,
+    "longitude": 78.09093,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937280",
+    "name": "Kailash Hospital, Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.28831,
+    "longitude": 78.0642,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937283",
+    "name": "Nethra Jovan Eyes Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.28111,
+    "longitude": 78.07123,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937285",
+    "name": "Physio for Relief Physiotherapy Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.41311,
+    "longitude": 79.31656,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937286",
+    "name": "Dr. Ajay Sharma Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31744,
+    "longitude": 78.04692,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937287",
+    "name": "Rudraksh Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.60006,
+    "longitude": 79.65995,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937290",
+    "name": "Shree Gopinath Health Care",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.40942,
+    "longitude": 79.31751,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937291",
+    "name": "Dr. Manish Jain",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.33375,
+    "longitude": 78.02399,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937292",
+    "name": "Doctor Dayal Singh Bisht",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.90229,
+    "longitude": 79.61427,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937293",
+    "name": "Synergy Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.3376,
+    "longitude": 78.01385,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937294",
+    "name": "BNK Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.3973,
+    "longitude": 80.08753,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937295",
+    "name": "Dr. Sachan",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.33456,
+    "longitude": 78.05896,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937297",
+    "name": "Dr. Vijender Singh",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.33296,
+    "longitude": 78.06195,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937298",
+    "name": "Amoli Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.34096,
+    "longitude": 78.05067,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937299",
+    "name": "Anandita Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.2595,
+    "longitude": 79.21632,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937300",
+    "name": "Government Hospital, Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33786,
+    "longitude": 77.95939,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937301",
+    "name": "Chaukhutia Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.88314,
+    "longitude": 79.34798,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937302",
+    "name": "Dinesh Joshi Medikose, Tharali",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.07357,
+    "longitude": 79.50067,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937303",
+    "name": "City Heart Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31969,
+    "longitude": 78.05031,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937304",
+    "name": "Luthra Maternity & Infertility Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32992,
+    "longitude": 78.02993,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937305",
+    "name": "Goverment Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.88428,
+    "longitude": 79.35081,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937306",
+    "name": "ECHS PolyClinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.28336,
+    "longitude": 79.24874,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937307",
+    "name": "Doctor Alok Semwal",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.3194,
+    "longitude": 78.04342,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937308",
+    "name": "ONGC Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33545,
+    "longitude": 78.01679,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937309",
+    "name": "Guru Kirpa Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.4076,
+    "longitude": 79.32023,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937310",
+    "name": "Param Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.31012,
+    "longitude": 78.04545,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937313",
+    "name": "Dr. D.P. Thapliyal",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.27711,
+    "longitude": 78.07607,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937315",
+    "name": "The Leprosy Mission Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58278,
+    "longitude": 79.6416,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937316",
+    "name": "Swami Vivekanand Dharmarth Chikitsalay",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.42843,
+    "longitude": 79.42688,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937317",
+    "name": "Dr. Mrs Latika Joshi",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.31951,
+    "longitude": 78.0431,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937319",
+    "name": "Government Hospital, Dharamgarh",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.8785,
+    "longitude": 80.00886,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937320",
+    "name": "Dr. Takshashila",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.33551,
+    "longitude": 80.09279,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937321",
+    "name": "Dr. Sona Kaushal Neuro Psychologist",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.33147,
+    "longitude": 78.0466,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937323",
+    "name": "Fortis Escorts Hospital, Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32066,
+    "longitude": 78.05767,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937324",
+    "name": "Arora Dental Care Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.3362,
+    "longitude": 77.96095,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7479937325",
+    "name": "D.R Memorial Ortho Physio Care",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.25596,
+    "longitude": 79.21854,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472624",
+    "name": "Jay Shakunthala Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86856,
+    "longitude": 77.87505,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472625",
+    "name": "Upasna Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.86741,
+    "longitude": 77.8746,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472626",
+    "name": "Ahmad Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87976,
+    "longitude": 77.887,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472628",
+    "name": "Nayyar Nursing Home",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86887,
+    "longitude": 77.88002,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472630",
+    "name": "Batra Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87755,
+    "longitude": 77.87333,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472631",
+    "name": "Mishra Maternity Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.92009,
+    "longitude": 78.13713,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472632",
+    "name": "Rahmet Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.88221,
+    "longitude": 77.87574,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472633",
+    "name": "Prakshit Eye Care",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.57544,
+    "longitude": 78.32588,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472634",
+    "name": "Daksh Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.867,
+    "longitude": 77.87356,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472635",
+    "name": "Saini Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87013,
+    "longitude": 77.86186,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472636",
+    "name": "Dr. Tarachand Sharma",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.8729,
+    "longitude": 77.87045,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472637",
+    "name": "Shanta Ram E.N.T Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.86486,
+    "longitude": 77.87837,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472638",
+    "name": "Eye Mitra",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.88164,
+    "longitude": 77.87116,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472639",
+    "name": "Jagdish Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87348,
+    "longitude": 77.87629,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472640",
+    "name": "Skin Clinic - Dr. P. K Singh",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87055,
+    "longitude": 77.8815,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472641",
+    "name": "Aastha Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87433,
+    "longitude": 77.88346,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472642",
+    "name": "Karam Chand Gupta Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87869,
+    "longitude": 77.88406,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472643",
+    "name": "Vardhman Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.8673,
+    "longitude": 77.88671,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472644",
+    "name": "Alok Skin Care",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87053,
+    "longitude": 77.87616,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472645",
+    "name": "Maxwell Janjeevan Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.92171,
+    "longitude": 78.13634,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472646",
+    "name": "Pachishiya Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87917,
+    "longitude": 77.87799,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472647",
+    "name": "Bhagwati Hospital, Kashipuri",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.8799,
+    "longitude": 77.87657,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472648",
+    "name": "Dr. Pooja Rana",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.73049,
+    "longitude": 78.43259,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472650",
+    "name": "S.R. Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.86208,
+    "longitude": 77.86712,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472652",
+    "name": "Deep Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87011,
+    "longitude": 77.88143,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472654",
+    "name": "Sapra Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87184,
+    "longitude": 77.8733,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472655",
+    "name": "Dr.Jama Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87892,
+    "longitude": 77.88741,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472656",
+    "name": "Gayatri Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87008,
+    "longitude": 77.86872,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472657",
+    "name": "Janata Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.8868,
+    "longitude": 77.88043,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472658",
+    "name": "Tripta Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.85393,
+    "longitude": 77.87626,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472659",
+    "name": "Agarwal Nursing Home",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87721,
+    "longitude": 77.88569,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472661",
+    "name": "Naayasha Nursing Home & Avam Maternity Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87786,
+    "longitude": 77.8769,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472663",
+    "name": "Asmi Diagnostic Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87801,
+    "longitude": 77.88639,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472664",
+    "name": "Military Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.85407,
+    "longitude": 77.88671,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472665",
+    "name": "R.K. Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87358,
+    "longitude": 77.87636,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472666",
+    "name": "Joshi Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.58389,
+    "longitude": 78.31556,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472667",
+    "name": "Daksh Balaji Ortho Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.91856,
+    "longitude": 78.14105,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472670",
+    "name": "Dr. S.K Goel Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87804,
+    "longitude": 77.88564,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472671",
+    "name": "Sanjeevani Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.92228,
+    "longitude": 78.13683,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472672",
+    "name": "Shah Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.91869,
+    "longitude": 78.13944,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472674",
+    "name": "Happy Family Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86529,
+    "longitude": 77.87168,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472675",
+    "name": "Singh Multi Speciality Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87516,
+    "longitude": 77.87697,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472676",
+    "name": "Jeevan Jyoti Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.8835,
+    "longitude": 77.87767,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472677",
+    "name": "Vardaan Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87186,
+    "longitude": 77.87331,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472678",
+    "name": "Al Hijama Therapy Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.88554,
+    "longitude": 77.87947,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472679",
+    "name": "Laser Physio Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87195,
+    "longitude": 77.87001,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472680",
+    "name": "Nirogyam Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87336,
+    "longitude": 77.87753,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472682",
+    "name": "Mission Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86786,
+    "longitude": 77.88589,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472683",
+    "name": "Roorkee Max Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.88212,
+    "longitude": 77.87737,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472684",
+    "name": "Saklani Eye Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.57008,
+    "longitude": 78.32571,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472685",
+    "name": "Deep Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87311,
+    "longitude": 77.87783,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472686",
+    "name": "Saksham Hospital, Malviya Chowk",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86725,
+    "longitude": 77.87386,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472688",
+    "name": "Dr. Vipin",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.8774,
+    "longitude": 77.88768,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472689",
+    "name": "Shifa Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.88668,
+    "longitude": 77.88005,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472690",
+    "name": "Farookie Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.8809,
+    "longitude": 77.88848,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472692",
+    "name": "Subhansu Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87028,
+    "longitude": 77.88161,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472693",
+    "name": "Aayush Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87217,
+    "longitude": 77.87114,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472694",
+    "name": "Kasmi Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87934,
+    "longitude": 77.88683,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472695",
+    "name": "Vedanta Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.82905,
+    "longitude": 77.88599,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472696",
+    "name": "Arora Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87448,
+    "longitude": 77.88392,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472697",
+    "name": "Vinay Vishal HealthCare",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.86703,
+    "longitude": 77.87712,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472698",
+    "name": "Metro City Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87146,
+    "longitude": 77.8761,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472700",
+    "name": "Dr. Subhash Bazaz",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 30.72556,
+    "longitude": 78.43814,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472702",
+    "name": "Sahara Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87729,
+    "longitude": 77.88903,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472704",
+    "name": "Doctor Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.88286,
+    "longitude": 77.88401,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472705",
+    "name": "Sangeeta Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.87047,
+    "longitude": 77.87915,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472706",
+    "name": "Sarthak Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.87615,
+    "longitude": 77.888,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472707",
+    "name": "Dr.Vikas Tyagi",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.87948,
+    "longitude": 77.8885,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7484472708",
+    "name": "Shradha Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.8781,
+    "longitude": 77.87308,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849744",
+    "name": "Dr.Kripal Singh Belwal",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.19607,
+    "longitude": 79.49284,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849747",
+    "name": "Gangola Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.37976,
+    "longitude": 79.46369,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849750",
+    "name": "Himalayan Arogya Niketan Ayurveda Naturopathy Hospital & Research Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.2186,
+    "longitude": 79.51766,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849751",
+    "name": "Dr. Jasleen Kaur Kapoor",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.25941,
+    "longitude": 79.54296,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849752",
+    "name": "Tatrari Clinic & Medicos",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.24253,
+    "longitude": 79.53231,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849754",
+    "name": "Dr. Manoj Trivedi Psychiatric Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22511,
+    "longitude": 79.52351,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849756",
+    "name": "Mohan Tiwari Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21898,
+    "longitude": 79.48609,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849759",
+    "name": "Bhatt Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.22224,
+    "longitude": 79.52981,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849760",
+    "name": "Dr. Umesh Chandra",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.22261,
+    "longitude": 79.50717,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849761",
+    "name": "Nirvan Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21122,
+    "longitude": 79.51775,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849763",
+    "name": "Drishti Eye charity",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22955,
+    "longitude": 79.52993,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849765",
+    "name": "Dr. Adarsh Kumar",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.21857,
+    "longitude": 79.51742,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849769",
+    "name": "Kalyanika Polyclinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21659,
+    "longitude": 79.52389,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849770",
+    "name": "Sushila Tewari Cancer Care Unit",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20639,
+    "longitude": 79.5176,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849771",
+    "name": "Dr. K.K. Malik",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.22576,
+    "longitude": 79.51532,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849774",
+    "name": "Dr. Pradeep Pandey",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.22155,
+    "longitude": 79.51099,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849775",
+    "name": "Anurjum Maternity Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21582,
+    "longitude": 79.51305,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849776",
+    "name": "Dr. Saurav Agarwal",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.20445,
+    "longitude": 79.5272,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849777",
+    "name": "Bora Plastic Surgery Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21633,
+    "longitude": 79.51713,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849778",
+    "name": "Dr. Yatindra Bahuguna",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.23038,
+    "longitude": 79.52769,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849779",
+    "name": "Om Physiotherapy Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.37949,
+    "longitude": 79.46349,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849781",
+    "name": "Chandan Diagnostic Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.39185,
+    "longitude": 79.45331,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849782",
+    "name": "Ex Servicemen Contributory Health Scheme - PolyClinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22962,
+    "longitude": 79.53553,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849783",
+    "name": "Ramsay Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.3821,
+    "longitude": 79.46613,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849785",
+    "name": "Dr. Anwar Ansari",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.21144,
+    "longitude": 79.51695,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849788",
+    "name": "Dr. H.L Kushwaha ENT Care HLD",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21694,
+    "longitude": 79.51572,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849789",
+    "name": "Krishna Neurology Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.23339,
+    "longitude": 79.53233,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849790",
+    "name": "Dr. Manoj Pandey",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.25209,
+    "longitude": 79.53965,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849792",
+    "name": "Dr. Prashant Moon -Plastic Surgeon",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.22698,
+    "longitude": 79.53232,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849793",
+    "name": "Nakag Laser ENT Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.2244,
+    "longitude": 79.52947,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849794",
+    "name": "Bhaskar Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.37904,
+    "longitude": 79.46376,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849795",
+    "name": "Dr. TD Sharma",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.2226,
+    "longitude": 79.50594,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849796",
+    "name": "Nilamber Bhatt Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.2193,
+    "longitude": 79.51922,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849803",
+    "name": "Sitapur Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.39051,
+    "longitude": 79.45756,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849804",
+    "name": "Dr. Archana Singh Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21394,
+    "longitude": 79.50296,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849807",
+    "name": "Dr. K.C lohani Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.23372,
+    "longitude": 79.53386,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849811",
+    "name": "Amakona Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.38111,
+    "longitude": 79.4663,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849813",
+    "name": "Dr. Sangeeta Joshi Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22049,
+    "longitude": 79.49729,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849815",
+    "name": "Bhatt Skin Allergy and General Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.22744,
+    "longitude": 79.49503,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849816",
+    "name": "Dr. Vaibhav Paliwal",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.23469,
+    "longitude": 79.53357,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849817",
+    "name": "Nirvan Neuro Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21386,
+    "longitude": 79.51815,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849819",
+    "name": "Rawal Hospital - Maternity & Orthopaedic Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.2173,
+    "longitude": 79.51332,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849822",
+    "name": "Dr. Amit Suyal Child Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22413,
+    "longitude": 79.51486,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849824",
+    "name": "Smile Centre For Advanced Dental Care",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.2295,
+    "longitude": 79.53013,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849825",
+    "name": "Dr. Bhatts Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.39227,
+    "longitude": 79.45273,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849826",
+    "name": "Tanishq Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.25833,
+    "longitude": 79.54012,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849827",
+    "name": "Dr. Maneesh Mourya",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.22658,
+    "longitude": 79.52002,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849828",
+    "name": "Vedanta Netralaya",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22773,
+    "longitude": 79.52964,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849829",
+    "name": "Mattrix Hospital & Accident Care",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.22153,
+    "longitude": 79.51097,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7485849832",
+    "name": "Neuro Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.23938,
+    "longitude": 79.53189,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360392",
+    "name": "Dr. Nautiyal's Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.14698,
+    "longitude": 78.77699,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360393",
+    "name": "Sanwal Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.59027,
+    "longitude": 80.21851,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360394",
+    "name": "Dr. P.S. Shahi Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.97576,
+    "longitude": 79.39651,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360395",
+    "name": "Government Hospital, Rikhnikhal",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.77343,
+    "longitude": 78.85621,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360397",
+    "name": "Dr. Singh Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.98273,
+    "longitude": 79.40294,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360400",
+    "name": "Physiotherapy Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.74695,
+    "longitude": 78.52205,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360401",
+    "name": "Global Hospital, Kichha",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.91747,
+    "longitude": 79.50458,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360402",
+    "name": "Masiha Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.35126,
+    "longitude": 78.38961,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360403",
+    "name": "Sitapur Eye Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.7503,
+    "longitude": 78.52391,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360405",
+    "name": "Nav Jyoti Eye Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.98276,
+    "longitude": 79.40197,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360406",
+    "name": "Arogyam Health Care Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58233,
+    "longitude": 80.22027,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360407",
+    "name": "Siddhi Vinayak Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98425,
+    "longitude": 79.40046,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360409",
+    "name": "Dr. B.S. Negi Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.89903,
+    "longitude": 78.85567,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360411",
+    "name": "Dr. Bahuguna Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.14701,
+    "longitude": 78.77628,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360412",
+    "name": "Kilkari Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58607,
+    "longitude": 80.21247,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360414",
+    "name": "Government Hospital, Farsarigad",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.91605,
+    "longitude": 78.99706,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360415",
+    "name": "T.B. Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58311,
+    "longitude": 80.21281,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360417",
+    "name": "Kala ENT and Skin",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.74459,
+    "longitude": 78.51426,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360419",
+    "name": "Dr.Shahadat Miyan Siraoli Kalan",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 28.89461,
+    "longitude": 79.51054,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360420",
+    "name": "Manoj Agarwal Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.74639,
+    "longitude": 78.52123,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360424",
+    "name": "Life Care Nursing Home & Panchkarma Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.91928,
+    "longitude": 79.51952,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360425",
+    "name": "Srikotkhal Government Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.94843,
+    "longitude": 78.74421,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360428",
+    "name": "Ortho Neuro Physiotherapy & Slimming Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.98592,
+    "longitude": 79.40518,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360430",
+    "name": "Basera Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58145,
+    "longitude": 80.22477,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360431",
+    "name": "Dar Ul Sukoon Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.8992,
+    "longitude": 79.50749,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360432",
+    "name": "Shubham Surgical Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98132,
+    "longitude": 79.39781,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360433",
+    "name": "Dr. Mudit Agarwal",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.75364,
+    "longitude": 78.52437,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360434",
+    "name": "Dr. K.N. Kapoor Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.90924,
+    "longitude": 79.52088,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360435",
+    "name": "Zila Mahila Chikitsalaya",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58602,
+    "longitude": 80.21357,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360439",
+    "name": "Mansa Maternity and Surgical Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.74298,
+    "longitude": 78.51479,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360440",
+    "name": "Hatwal Eye Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.37976,
+    "longitude": 78.43811,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360442",
+    "name": "Shyam Maternity Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.74836,
+    "longitude": 78.52032,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360444",
+    "name": "Metrocity Hospital & Research Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98221,
+    "longitude": 79.3974,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360445",
+    "name": "The Hans Foundation General Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.94498,
+    "longitude": 78.69275,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360446",
+    "name": "Bisht Ortho Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.7523,
+    "longitude": 78.52466,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360448",
+    "name": "Healing Touch Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58464,
+    "longitude": 80.22104,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360449",
+    "name": "Kharkwal Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.58563,
+    "longitude": 80.21282,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360450",
+    "name": "Dr. Arun Kumar Sharma",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 28.97749,
+    "longitude": 79.39725,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360451",
+    "name": "Dr. Rakesh Agarwal Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.73919,
+    "longitude": 78.51511,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360452",
+    "name": "Sharv Healthcare and Diagnostic Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.58471,
+    "longitude": 80.20462,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360453",
+    "name": "Dr. Pallavi Sharma",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 28.98197,
+    "longitude": 79.40121,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360454",
+    "name": "Government Hospital, Satpuli",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.92275,
+    "longitude": 78.71042,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360455",
+    "name": "Jankalyan Hospital, Rudraprayag",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.28353,
+    "longitude": 78.98315,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360457",
+    "name": "Maithani Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.74793,
+    "longitude": 78.52176,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360458",
+    "name": "A B Physiotherpy Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.3824,
+    "longitude": 78.4396,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360459",
+    "name": "Prakash Eye Care",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.74333,
+    "longitude": 78.5124,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360460",
+    "name": "Max Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.38282,
+    "longitude": 78.44215,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360461",
+    "name": "Lamba Physiotherapy Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.98415,
+    "longitude": 79.40208,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360463",
+    "name": "Arora Heart Care Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.91149,
+    "longitude": 79.51508,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360464",
+    "name": "Om Hospital, Rudrapur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98053,
+    "longitude": 79.39958,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360465",
+    "name": "Sound Inn Health Care Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.98621,
+    "longitude": 79.40419,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360467",
+    "name": "Shri Skin & Medical Care Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.98234,
+    "longitude": 79.40148,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360468",
+    "name": "Dr. Dhyani's Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.95885,
+    "longitude": 78.91467,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360469",
+    "name": "Patanjali Chikitsalya",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.58254,
+    "longitude": 80.21561,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360471",
+    "name": "The Leprosy Mission Chandak Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.60802,
+    "longitude": 80.19636,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360472",
+    "name": "Dr. Ravinder Clinic & Maternity",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.98298,
+    "longitude": 79.40349,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360473",
+    "name": "Kotdwar Eye Hospital & Laser Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.75137,
+    "longitude": 78.52472,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360476",
+    "name": "Amba Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.34531,
+    "longitude": 78.39247,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360477",
+    "name": "Shyam Eye Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.83872,
+    "longitude": 78.68106,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360479",
+    "name": "Major Sharma Surgical Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98631,
+    "longitude": 79.40268,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360480",
+    "name": "St. Paul Hospital, Satpuli",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.91615,
+    "longitude": 78.71182,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360481",
+    "name": "B.D. Pathak Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.9815,
+    "longitude": 79.39888,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7486360483",
+    "name": "Sanjivani Physiotherapy Centre & Laser Therapy Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.9108,
+    "longitude": 79.51342,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7488942340",
+    "name": "Muskan Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.65881,
+    "longitude": 77.84102,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7492121959",
+    "name": "Shri Purnanand Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.19243,
+    "longitude": 78.866,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7492121998",
+    "name": "K.A Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.13603,
+    "longitude": 78.94293,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7637726841",
+    "name": "Panwar Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.44024,
+    "longitude": 77.61456,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7637726852",
+    "name": "Healing Hands Pediatric and Neonatology Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.44045,
+    "longitude": 77.61507,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7637726863",
+    "name": "Priyanshi Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.43997,
+    "longitude": 77.62796,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7637726865",
+    "name": "Rana Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.44536,
+    "longitude": 77.57201,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_7637726876",
+    "name": "Shri Siddhivinayak Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.4423,
+    "longitude": 77.60999,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8134067099",
+    "name": "Hospital (29.155, 79.147)",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.15481,
+    "longitude": 79.14743,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8134173936",
+    "name": "bengali clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.15447,
+    "longitude": 79.15219,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8134741134",
+    "name": "Garima Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.16303,
+    "longitude": 79.15081,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8189896907",
+    "name": "Dr. Oli Hospital & Infertility Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21976,
+    "longitude": 79.51187,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8212841706",
+    "name": "Government Hospital, Kabdola",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.82447,
+    "longitude": 79.31261,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8226781899",
+    "name": "Government Hospital, Bantoli",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.89827,
+    "longitude": 79.56432,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8230064440",
+    "name": "Government Hospital, Mehalchauri",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.98481,
+    "longitude": 79.32163,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8233012075",
+    "name": "Primary Health Centre, Tamli",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.29234,
+    "longitude": 80.28634,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8236527614",
+    "name": "Government Hospital, Rahat",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.3342,
+    "longitude": 78.08125,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8238940546",
+    "name": "Government Hospital, Sabdarkhal",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.13143,
+    "longitude": 78.63867,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8239125409",
+    "name": "Government Hospital, Lalpani Kotdwara",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.72212,
+    "longitude": 78.51805,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8239172655",
+    "name": "Government Hospital, Chipalghat",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.11218,
+    "longitude": 78.92457,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8239402701",
+    "name": "Government Hospital, Bhagwati Taliya",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.91681,
+    "longitude": 79.09368,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8239437776",
+    "name": "Government Hospital, Katghar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.98673,
+    "longitude": 78.49278,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8239511081",
+    "name": "Government Hospital, Jhandichour",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.77584,
+    "longitude": 78.40937,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8241975245",
+    "name": "Government Hospital, Lansdowne",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.83544,
+    "longitude": 78.67984,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8242135311",
+    "name": "Government Hospital, Adalikhal",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.72356,
+    "longitude": 79.06698,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8242292598",
+    "name": "Government Hospital, Sirchandi",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.94182,
+    "longitude": 77.75571,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8242329042",
+    "name": "Government Hospital, Manakpur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.84328,
+    "longitude": 77.75634,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8242342979",
+    "name": "Government Hospital, Garh Meerpur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.9433,
+    "longitude": 77.99581,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8246380497",
+    "name": "Government Hospital, Madhopur Hazaratpur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.89079,
+    "longitude": 77.84444,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8246919619",
+    "name": "Government Hospital, Belra",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.89889,
+    "longitude": 77.93812,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8247021679",
+    "name": "Government Hospital, Makdupur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.7489,
+    "longitude": 77.80714,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8247453125",
+    "name": "Government Hospital, Rampur Lamachaur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.22455,
+    "longitude": 79.43197,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8250736937",
+    "name": "Government Hospital, Paharpani",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.42782,
+    "longitude": 79.71008,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8253787884",
+    "name": "Government Hospital, Barbe",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.50547,
+    "longitude": 80.2294,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8253816567",
+    "name": "Government Hospital, Askote",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.7623,
+    "longitude": 80.33678,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8256476232",
+    "name": "Government Hospital, Pathalidhar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.41181,
+    "longitude": 79.03191,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8256486598",
+    "name": "Government Hospital, Jakhal Bhardar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.34875,
+    "longitude": 78.92717,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8256488869",
+    "name": "Government Hospital, Basukedar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.43922,
+    "longitude": 79.05613,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8256506176",
+    "name": "Government Hospital, Makku Math",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.48207,
+    "longitude": 79.13629,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8265626138",
+    "name": "Government Hospital, Nainbagh",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.57119,
+    "longitude": 78.00504,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8265671494",
+    "name": "Government Hospital, Satyon",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.37473,
+    "longitude": 78.28372,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8266127301",
+    "name": "Dr Gaurav Gupta joint replacement and arthroscopy surgeon Dehradun",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.36936,
+    "longitude": 78.07265,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8268833450",
+    "name": "Government Hospital, Madannegi",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.40263,
+    "longitude": 78.49276,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8269148141",
+    "name": "Government Hospital, Bhagirathi Puram",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.37923,
+    "longitude": 78.47087,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8272738977",
+    "name": "Government Hospital, Tiliyapur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.99401,
+    "longitude": 79.61593,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8272813291",
+    "name": "Government Hospital, Garhinegi",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.28233,
+    "longitude": 78.94743,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8273102389",
+    "name": "Government Hospital, Mahua Dabra Haripura",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.27414,
+    "longitude": 78.79515,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8273116031",
+    "name": "Government Hospital, Gadarpur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.04844,
+    "longitude": 79.23968,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8273126281",
+    "name": "Government Hospital, Angadpur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.32799,
+    "longitude": 78.76704,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8273144221",
+    "name": "Government Hospital, Barkidandi",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.9833,
+    "longitude": 79.79878,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8273389816",
+    "name": "Government Hospital, Ramnagar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.07217,
+    "longitude": 79.1486,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8273615769",
+    "name": "Government Hospital, Nanakmatta",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.93983,
+    "longitude": 79.81171,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8273721531",
+    "name": "Government Hospital, Dhakia Kalan",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21758,
+    "longitude": 79.05069,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8276623754",
+    "name": "Government Hospital, Chhinaki",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.88666,
+    "longitude": 79.46582,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8276795354",
+    "name": "Government Hospital, Chakoni",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.904,
+    "longitude": 79.45864,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8276801193",
+    "name": "Government Hospital, Maneri",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.74099,
+    "longitude": 78.5299,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8276802646",
+    "name": "Government Hospital, Nakulia",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98033,
+    "longitude": 79.72575,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8277158562",
+    "name": "Government Hospital, Dichli",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.54795,
+    "longitude": 78.40546,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8512755850",
+    "name": "Dr Smriti Eye Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.35195,
+    "longitude": 78.06658,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8586211364",
+    "name": "CHC Jauljibi",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.75249,
+    "longitude": 80.38424,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8753567185",
+    "name": "Urban Health Post, Bheemdatta 9, Kanchanpur",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.06532,
+    "longitude": 80.13733,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_8818519318",
+    "name": "\u090f.\u0906\u0930.\u091f\u0940. \u092a\u094d\u0932\u0938 \u0915\u0947\u0902\u0926\u094d\u0930",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32062,
+    "longitude": 78.04179,
+    "phone": "0135-2655529"
+  },
+  {
+    "id": "hosp_8891542517",
+    "name": "Shakti Sansthan",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.92602,
+    "longitude": 78.13258,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9378197600",
+    "name": "CRPF Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.26007,
+    "longitude": 79.554,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9385639317",
+    "name": "ART Plus Centre Doon Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32066,
+    "longitude": 78.0418,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9665796354",
+    "name": "Haldwani Clinic And Maa Kaumari Medical Store",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.20381,
+    "longitude": 79.4817,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9667779967",
+    "name": "Ma Ambe Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.20872,
+    "longitude": 79.48887,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796055334",
+    "name": "\u0906\u0927\u093e\u0930\u092d\u0942\u0924 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0907\u0915\u093e\u0907",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.85448,
+    "longitude": 80.07021,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796055335",
+    "name": "\u0906\u0927\u093e\u0930\u092d\u0942\u0924 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0915\u0947\u0928\u094d\u0926\u094d\u0930, \u092c\u093e\u092c\u093e\u0925\u093e\u0928 \u091f\u094b\u0932",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.86937,
+    "longitude": 80.08073,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796055336",
+    "name": "\u0906\u0927\u093e\u0930\u092d\u0941\u0924 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u090f\u0915\u093e\u0908, \u092c\u093f\u0937\u094d\u091f \u091f\u094b\u0932",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.891,
+    "longitude": 80.0748,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796055338",
+    "name": "\u0928\u0917\u0930 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0915\u0947\u0928\u094d\u0926\u094d\u0930, \u092a\u0941\u0930\u094d\u0923\u093e\u0917\u093f\u0930\u0940 \u091f\u094b\u0932",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.90941,
+    "longitude": 80.06192,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796055342",
+    "name": "\u0906\u0927\u093e\u0930\u092d\u0941\u0924 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0907\u0915\u093e\u0908",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 28.9237,
+    "longitude": 80.08533,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796558469",
+    "name": "Gaushalla Barthing center",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.35027,
+    "longitude": 80.28719,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796558474",
+    "name": "Terchhabata Health post",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.36328,
+    "longitude": 80.29534,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796560929",
+    "name": "Surakhit Prasuti Kendra, Ratamata Baitadi",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.55211,
+    "longitude": 80.35627,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796560933",
+    "name": "\u092c\u093e\u0930\u093e\u0915\u094b\u091f \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u091a\u094c\u0915\u0940 \u092c\u093e\u0930\u093e\u0915\u094b\u091f",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.54845,
+    "longitude": 80.37279,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796560941",
+    "name": "\u0924\u093f\u0930\u094d\u092a\u0941\u0930\u093e \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u091a\u094c\u0915\u0940",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.56081,
+    "longitude": 80.39791,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796560943",
+    "name": "\u0938\u0939\u0930\u0940 \u0938\u094d\u0935\u093e\u0938\u094d\u0925 \u0915\u0947\u0928\u094d\u0926\u094d\u0930 \u0926 \u0928 \u092a\u093e \u0938\u0947\u0930\u093e",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.59413,
+    "longitude": 80.41074,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796569752",
+    "name": "Binayak Birthing Center",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.44756,
+    "longitude": 80.28553,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9796569756",
+    "name": "Mahakali Health Post",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.39002,
+    "longitude": 80.2926,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9841478658",
+    "name": "Swami vikenand charitable hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.72454,
+    "longitude": 79.06986,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9867305284",
+    "name": "Government Ayurvedic Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.24709,
+    "longitude": 79.45212,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9960699990",
+    "name": "Mehta Charitable Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.19311,
+    "longitude": 79.50467,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_9967549884",
+    "name": "Dr Ajay Pande Child Care Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.22054,
+    "longitude": 79.52404,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_10012603021",
+    "name": "Krishna Medical Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.10884,
+    "longitude": 78.29272,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_10132562231",
+    "name": "Jeevan Jyoti Hospital & Ultrasound Center",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.03578,
+    "longitude": 77.75115,
+    "phone": "+91 9761619444"
+  },
+  {
+    "id": "hosp_10173583536",
+    "name": "Care Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.33828,
+    "longitude": 78.02061,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_10790105930",
+    "name": "Archit Clinic",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33522,
+    "longitude": 78.01593,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_10841438208",
+    "name": "Dr Vineet Tyagi Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.3091,
+    "longitude": 78.04315,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11038819482",
+    "name": "Kediya Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21057,
+    "longitude": 79.52384,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11038819484",
+    "name": "Agarwal Neuro And Medical Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.2109,
+    "longitude": 79.5239,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11038819485",
+    "name": "Saol Heart Centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.211,
+    "longitude": 79.5237,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11038819503",
+    "name": "Dr. Nirmal Chandra Mungali",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21271,
+    "longitude": 79.52786,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11039189613",
+    "name": "Dr. Brijvasi Homeopathy",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21103,
+    "longitude": 79.52556,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11039189629",
+    "name": "Balaji Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.20873,
+    "longitude": 79.52309,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11039189632",
+    "name": "Dr. Neeraj Upadhyay",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.20739,
+    "longitude": 79.52098,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11056588403",
+    "name": "Government Hospital, Babiyar",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.30108,
+    "longitude": 79.69645,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11068984057",
+    "name": "Jawahar Lal Nehru District Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.99164,
+    "longitude": 79.40131,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11070580710",
+    "name": "The Medicity",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.96032,
+    "longitude": 79.41728,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11351259740",
+    "name": "Kalyan Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.21793,
+    "longitude": 79.51886,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11351259768",
+    "name": "Kailash Neuro Center",
+    "type": "doctors",
+    "emergency": "yes",
+    "latitude": 29.21905,
+    "longitude": 79.51429,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11351306002",
+    "name": "Merm Chikitsa Kendra",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.22035,
+    "longitude": 79.5114,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11360326566",
+    "name": "Medi Centre Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.19645,
+    "longitude": 79.52942,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11389723405",
+    "name": "Satyam Diagnostic Centre",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 29.21011,
+    "longitude": 79.51742,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11476456750",
+    "name": "Gurukul Kangri Ayurvedic College & Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.91872,
+    "longitude": 78.11942,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11691647039",
+    "name": "Healing Touch Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.3287,
+    "longitude": 78.06605,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11718292127",
+    "name": "VAISH NURSING HOME",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.33216,
+    "longitude": 78.05955,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11778269180",
+    "name": "Dr. Vineet Kala",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.29942,
+    "longitude": 78.05208,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11860290763",
+    "name": "Rana eye center",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.09034,
+    "longitude": 78.27361,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11860352788",
+    "name": "Neeraj epilepsy clinic",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.09879,
+    "longitude": 78.28841,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_11929767034",
+    "name": "Medical Store",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.28643,
+    "longitude": 78.04807,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_12049320442",
+    "name": "Seema dental college and hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.0692,
+    "longitude": 78.27719,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_12468580674",
+    "name": "GMS Mangal Clinic & Diagnostics",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.30706,
+    "longitude": 78.00958,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_12593415466",
+    "name": "Tulas owner",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.37637,
+    "longitude": 78.06715,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_12595670031",
+    "name": "cheema hospital &trauma centre",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.95731,
+    "longitude": 79.42387,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_12595672245",
+    "name": "Gautam Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.95796,
+    "longitude": 79.42583,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_12596133537",
+    "name": "trauma & joint repalcement",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 28.98181,
+    "longitude": 79.39974,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_12747456495",
+    "name": "Aashirwad Hospital ( Dr Ratika Jindal)",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.43961,
+    "longitude": 77.62226,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_13152055855",
+    "name": "Ayushwaan Multi Speciality Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.12788,
+    "longitude": 78.32048,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_13482147669",
+    "name": "Jawla Hospital",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.32343,
+    "longitude": 78.01397,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_13506691110",
+    "name": "Panacea Super Speciality Hospital Dehradun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 30.29637,
+    "longitude": 78.0558,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_14040649602",
+    "name": "Rawat Chest Clinic",
+    "type": "clinic",
+    "emergency": "yes",
+    "latitude": 30.29037,
+    "longitude": 78.02482,
+    "phone": "+91 108"
+  },
+  {
+    "id": "hosp_14079136329",
+    "name": "Primary Health Centre Dhaun",
+    "type": "hospital",
+    "emergency": "yes",
+    "latitude": 29.27003,
+    "longitude": 80.09944,
+    "phone": "+91 108"
+  }
+]

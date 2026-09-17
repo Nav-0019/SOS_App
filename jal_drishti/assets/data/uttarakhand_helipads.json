@@ -1,0 +1,121 @@
+[
+  {
+    "id": "aero_1042147421",
+    "name": "Aviation Research Centre, RAW Headquarter Helipad",
+    "type": "helipad",
+    "latitude": 30.70645,
+    "longitude": 77.8615
+  },
+  {
+    "id": "aero_1130842810",
+    "name": "Emergency Helipad (29.592, 80.239)",
+    "type": "helipad",
+    "latitude": 29.59211,
+    "longitude": 80.23931
+  },
+  {
+    "id": "aero_2362976199",
+    "name": "Emergency Helipad (31.035, 78.759)",
+    "type": "helipad",
+    "latitude": 31.03475,
+    "longitude": 78.759
+  },
+  {
+    "id": "aero_2362976205",
+    "name": "Emergency Helipad (31.035, 78.759)",
+    "type": "helipad",
+    "latitude": 31.03487,
+    "longitude": 78.75938
+  },
+  {
+    "id": "aero_2364476883",
+    "name": "Emergency Helipad (30.572, 78.005)",
+    "type": "helipad",
+    "latitude": 30.57167,
+    "longitude": 78.0046
+  },
+  {
+    "id": "aero_2389062758",
+    "name": "Emergency Helipad (31.364, 79.132)",
+    "type": "helipad",
+    "latitude": 31.36387,
+    "longitude": 79.13183
+  },
+  {
+    "id": "aero_2413200236",
+    "name": "Emergency Helipad (30.434, 80.473)",
+    "type": "helipad",
+    "latitude": 30.43385,
+    "longitude": 80.47323
+  },
+  {
+    "id": "aero_4982115485",
+    "name": "Emergency Helipad (30.950, 79.051)",
+    "type": "helipad",
+    "latitude": 30.95041,
+    "longitude": 79.0509
+  },
+  {
+    "id": "aero_6166747132",
+    "name": "Emergency Helipad (29.847, 79.592)",
+    "type": "helipad",
+    "latitude": 29.84736,
+    "longitude": 79.59235
+  },
+  {
+    "id": "aero_6645841861",
+    "name": "Emergency Helipad (30.222, 80.910)",
+    "type": "helipad",
+    "latitude": 30.22227,
+    "longitude": 80.91022
+  },
+  {
+    "id": "aero_6959334618",
+    "name": "Emergency Helipad (30.239, 80.976)",
+    "type": "helipad",
+    "latitude": 30.23878,
+    "longitude": 80.97589
+  },
+  {
+    "id": "aero_10958929376",
+    "name": "degree college helipad",
+    "type": "helipad",
+    "latitude": 29.84589,
+    "longitude": 79.7822
+  },
+  {
+    "id": "aero_11353717584",
+    "name": "Emergency Helipad (29.378, 79.542)",
+    "type": "helipad",
+    "latitude": 29.3785,
+    "longitude": 79.54205
+  },
+  {
+    "id": "aero_12249748407",
+    "name": "Emergency Helipad (30.554, 79.562)",
+    "type": "helipad",
+    "latitude": 30.55418,
+    "longitude": 79.56174
+  },
+  {
+    "id": "aero_12590305619",
+    "name": "HELIPAD",
+    "type": "helipad",
+    "latitude": 30.59628,
+    "longitude": 79.87262
+  },
+  {
+    "id": "aero_13284959639",
+    "name": "Emergency Helipad (31.023, 78.045)",
+    "type": "helipad",
+    "latitude": 31.0225,
+    "longitude": 78.04513
+  },
+  {
+    "id": "aero_13285006128",
+    "name": "Emergency Helipad (30.694, 78.073)",
+    "type": "helipad",
+    "latitude": 30.69365,
+    "longitude": 78.07251
+  }
+]

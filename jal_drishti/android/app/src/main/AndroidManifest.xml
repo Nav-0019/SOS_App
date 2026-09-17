@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ── Android Permission Contract (security.md Section 7) ──────────────── -->
+
+    <!--
+        Issue #9: Legacy Bluetooth permissions for API < 31.
+        android:maxSdkVersion="30" ensures these are not declared on API 31+ where
+        they are replaced by the granular BLUETOOTH_* permissions below.
+    -->
+    <uses-permission
+        android:name="android.permission.BLUETOOTH"
+        android:maxSdkVersion="30" />
+    <uses-permission
+        android:name="android.permission.BLUETOOTH_ADMIN"
+        android:maxSdkVersion="30" />
+
+    <!--
+        Issue #10: neverForLocation tells Android that BLUETOOTH_SCAN results
+        are not used to derive physical location.  This removes the implicit
+        location-permission dependency on API 31+ devices.
+    -->
+    <uses-permission
+        android:name="android.permission.BLUETOOTH_SCAN"
+        android:usesPermissionFlags="neverForLocation"
+        tools:targetApi="s" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+
+    <!-- Location still needed for geolocator; not derived from BLE scan. -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- Other permissions -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!--
+        Issue #11: FOREGROUND_SERVICE permission required for API 28+.
+        FOREGROUND_SERVICE_CONNECTED_DEVICE required for API 34+ (Android 14)
+        when the foreground service type is "connectedDevice" (BLE scanning).
+        Android 14+ kills background BLE scans that are not backed by a
+        foreground service of type connectedDevice.
+    -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission
+        android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE"
+        tools:targetApi="upside_down_cake" />
+
+    <!-- Hardware features -->
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="false" />
+
+    <application
+        android:label="Jal Drishti"
+        android:name="${applicationName}"
+        android:icon="@mipmap/ic_launcher"
+        android:hardwareAccelerated="true"
+        android:requestLegacyExternalStorage="false"
+        android:usesCleartextTraffic="false">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:taskAffinity=""
+            android:theme="@style/LaunchTheme"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+            android:hardwareAccelerated="true"
+            android:windowSoftInputMode="adjustResize">
+
+            <meta-data
+                android:name="io.flutter.embedding.android.NormalTheme"
+                android:resource="@style/NormalTheme" />
+
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Foreground service for SOS loop -->
+        <service
+            android:name=".SosForegroundService"
+            android:exported="false"
+            android:foregroundServiceType="location" />
+
+        <!--
+            Issue #11: BLE mesh foreground service (connectedDevice type).
+            Android 14+ (API 34) requires a declared foreground service with
+            foregroundServiceType="connectedDevice" to keep BLE scans alive
+            when the app moves to the background.
+            The service lifecycle is managed from Dart via BleMeshService:
+              startPeerDiscovery() → service started
+              stopPeerDiscovery() / dispose() → service stopped
+            Implementation: use flutter_foreground_task or platform channel.
+            See lib/features/mesh/services/ble_mesh_service.dart for Dart side.
+        -->
+        <service
+            android:name=".BleMeshForegroundService"
+            android:exported="false"
+            android:foregroundServiceType="connectedDevice"
+            tools:targetApi="upside_down_cake" />
+
+        <meta-data
+            android:name="flutterEmbedding"
+            android:value="2" />
+    </application>
+
+    <!-- Android 12+ query visibility for BLE peers & TTS engines -->
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.SENDTO" />
+            <data android:scheme="smsto" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.TTS_SERVICE" />
+        </intent>
+    </queries>
+
+</manifest>

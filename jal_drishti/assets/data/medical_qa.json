@@ -1,0 +1,143 @@
+{
+  "version": "1.0.0",
+  "schema_type": "ISAR_FTS_SEED",
+  "topics": [
+    {
+      "id": "QA_DROWNING_01",
+      "category": "Drowning & Submersion",
+      "category_hi": "डूबना व जलमग्नता",
+      "keywords": ["drowning", "water", "unconscious", "breathing", "cpr", "submerged", "lungs"],
+      "keywords_hi": ["डूबना", "पानी", "बेहोश", "सांस", "सीपीआर", "फेफड़े"],
+      "title": "Drowning & Submersion First-Aid",
+      "title_hi": "डूबने और जलमग्न होने पर प्राथमिक उपचार",
+      "steps": [
+        "1. Safety First: Do not jump into rapid currents without a flotation device or line tether.",
+        "2. Airway Check: Lay victim flat on back on safe dry ground. Check mouth for silt/debris.",
+        "3. Rescue Breaths: If not breathing, pinch nose and give 5 immediate rescue breaths into mouth.",
+        "4. Chest Compressions: Place hands on center of chest. Perform 30 rapid compressions (100-120 bpm) followed by 2 breaths.",
+        "5. Recovery Position: If victim starts breathing or vomiting, roll onto left side immediately to clear airway."
+      ],
+      "steps_hi": [
+        "1. सुरक्षा पहले: बिना लाइफ जैकेट या सुरक्षा रस्सी के तेज बहाव में न कूदें।",
+        "2. सांस की नली जांचें: पीड़ित को सुरक्षित सूखी जमीन पर पीठ के बल लिटाएं। मुंह में गाद/मिट्टी जांचें।",
+        "3. जीवनरक्षक सांसें: यदि सांस नहीं आ रही, तो नाक दबाकर तुरंत मुंह में 5 बार सांस दें।",
+        "4. छाती पर दबाव (CPR): छाती के बीच में हाथ रखें। 30 बार तेजी से छाती दबाएं (100-120 प्रति मिनट) और फिर 2 सांसें दें।",
+        "5. करवट स्थिति: यदि पीड़ित सांस लेने लगे या उल्टी करे, तो वायुमार्ग साफ रखने के लिए तुरंत बाईं करवट लिटाएं।"
+      ],
+      "warnings": [
+        "DO NOT attempt Heimlich maneuver to drain water from lungs.",
+        "Keep victim warm; hypothermia sets in rapidly after water submersion."
+      ],
+      "warnings_hi": [
+        "फेफड़ों से पानी निकालने के लिए पेट दबाने (हेमलिच पैंतरे) का प्रयास न करें।",
+        "पीड़ित को गर्म रखें; पानी से निकलने के बाद हाइपोथर्मिया (अत्यधिक ठंड) तेजी से होता है।"
+      ]
+    },
+    {
+      "id": "QA_HYPOTHERMIA_02",
+      "category": "Extreme Weather",
+      "category_hi": "विषम मौसम",
+      "keywords": ["hypothermia", "cold", "shivering", "freeze", "rain", "wet", "mountain"],
+      "keywords_hi": ["हाइपोथर्मिया", "ठंड", "कांपना", "जमना", "बारिश", "भीगा", "पहाड़"],
+      "title": "Hypothermia Management in Flash Floods",
+      "title_hi": "बाढ़ में हाइपोथर्मिया (अत्यधिक ठंड) का प्रबंधन",
+      "steps": [
+        "1. Remove Wet Gear: Strip wet clothes immediately once inside wind-shielded cover.",
+        "2. Passive Rewarming: Wrap victim in dry blankets, extra warm layers, or emergency foil blankets.",
+        "3. Focus on Core: Apply warm (not boiling) heat sources to neck, chest wall, and groin.",
+        "4. Hydration: Give warm, sweetened liquids ONLY if victim is fully conscious and alert."
+      ],
+      "steps_hi": [
+        "1. गीले कपड़े हटाएं: हवा से सुरक्षित स्थान पर पहुंचते ही तुरंत गीले कपड़े उतारें।",
+        "2. शरीर गर्म करें: पीड़ित को सूखे कंबलों, अतिरिक्त गर्म कपड़ों या आपातकालीन फॉयल कंबल में लपेटें।",
+        "3. मुख्य अंगों पर ध्यान दें: गर्दन, छाती और जांघों के जोड़ पर हल्की गर्म (उबलती नहीं) वस्तुएं लगाएं।",
+        "4. तरल पदार्थ: केवल तभी गर्म व मीठा पेय दें जब पीड़ित पूरी तरह होश में हो।"
+      ],
+      "warnings": [
+        "DO NOT rub or massage cold extremities; this risks triggering fatal cardiac arrhythmias.",
+        "DO NOT apply direct intense heat (like boiling water or open flame) to frozen skin."
+      ],
+      "warnings_hi": [
+        "ठंडे हाथ-पैरों की मालिश न करें; इससे हृदय की धड़कन असामान्य होकर जान का खतरा हो सकता है।",
+        "जमी हुई त्वचा पर उबलता पानी या खुली आग जैसी सीधी तेज गर्मी न लगाएं।"
+      ]
+    },
+    {
+      "id": "QA_BLEEDING_03",
+      "category": "Trauma & Wounds",
+      "category_hi": "चोट और घाव",
+      "keywords": ["bleeding", "wound", "blood", "cut", "artery", "bandage", "tourniquet"],
+      "keywords_hi": ["खून", "रक्तस्राव", "घाव", "कट", "धमनी", "पट्टी", "टूर्निकेट"],
+      "title": "Severe External Bleeding Control",
+      "title_hi": "गंभीर बाहरी रक्तस्राव नियंत्रण",
+      "steps": [
+        "1. Direct Pressure: Press a clean cloth or sterile dressing firmly over the wound site without stopping for at least 5 minutes.",
+        "2. Elevation: Raise the injured limb above heart level while maintaining direct pressure.",
+        "3. Pressure Bandage: Wrap securely with elastic bandage; check that toes/fingers maintain normal color.",
+        "4. Tourniquet Application: If life-threatening arterial bleeding on limbs fails to stop, place tourniquet 2-3 inches ABOVE wound (never on joint). Note precise time applied."
+      ],
+      "steps_hi": [
+        "1. सीधा दबाव: घाव पर साफ कपड़ा या पट्टी रखकर बिना रुके कम से कम 5 मिनट तक मजबूती से दबाएं।",
+        "2. ऊंचाई पर उठाएं: सीधा दबाव बनाए रखते हुए घायल अंग को दिल के स्तर से ऊपर उठाएं।",
+        "3. दबाव वाली पट्टी: लोचदार पट्टी से मजबूती से बांधें; ध्यान दें कि उंगलियों का रंग सामान्य रहे।",
+        "4. टूर्निकेट का प्रयोग: यदि हाथ-पैर से अत्यधिक खून बहना न रुके, तो घाव से 2-3 इंच ऊपर (जोड़ पर नहीं) टूर्निकेट बांधें और समय नोट करें।"
+      ],
+      "warnings": [
+        "DO NOT loosen tourniquet once applied until professional medical team arrives."
+      ],
+      "warnings_hi": [
+        "एक बार टूर्निकेट लगाने के बाद पेशेवर मेडिकल टीम आने तक इसे ढीला न करें।"
+      ]
+    },
+    {
+      "id": "QA_SNAKEBITE_04",
+      "category": "Environmental Hazards",
+      "category_hi": "पर्यावरणीय खतरे",
+      "keywords": ["snake", "bite", "venom", "cobra", "viper", "poison"],
+      "keywords_hi": ["सांप", "सर्पदंश", "जहर", "कोबरा", "वाइपर", "काटना"],
+      "title": "Snakebite Management",
+      "title_hi": "सांप के काटने पर प्राथमिक उपचार",
+      "steps": [
+        "1. Emergency Immobilize: Keep victim calm and still. Movement accelerates venom spreading through lymphatics.",
+        "2. Position Limb: Keep affected bite area BELOW heart level.",
+        "3. Clean & Cover: Gently wipe wound with clean cloth; cover loosely with dry dressing."
+      ],
+      "steps_hi": [
+        "1. स्थिर रखें: पीड़ित को शांत और बिल्कुल स्थिर रखें। हिलने-डुलने से जहर शरीर में तेजी से फैलता है।",
+        "2. अंग की स्थिति: काटे गए स्थान को दिल के स्तर से नीचे रखें।",
+        "3. साफ करें और ढकें: घाव को साफ कपड़े से धीरे से पोंछें और सूखी पट्टी से ढीला ढकें।"
+      ],
+      "warnings": [
+        "DO NOT cut bite mark, attempt to suck out venom, or apply ice/tourniquets."
+      ],
+      "warnings_hi": [
+        "काटने के निशान पर चीरा न लगाएं, मुंह से जहर चूसने की कोशिश न करें, और बर्फ या टूर्निकेट न लगाएं।"
+      ]
+    },
+    {
+      "id": "QA_WATER_PURIFICATION_05",
+      "category": "Sanitation & Water",
+      "category_hi": "स्वच्छता और जल",
+      "keywords": ["water", "drinking", "dirty", "purify", "boil", "chlorine", "cholera", "typhoid"],
+      "keywords_hi": ["पानी", "पीना", "गंदा", "शुद्ध", "उबालना", "क्लोरीन", "हैजा", "टाइफाइड"],
+      "title": "Emergency Safe Drinking Water",
+      "title_hi": "आपातकालीन सुरक्षित पेयजल",
+      "steps": [
+        "1. Sedimentation: Let turbid floodwater settle in container for 2-3 hours; pour clear top water off.",
+        "2. Boiling: Bring clear water to a rolling boil for a minimum of 1 full minute (3 minutes at high altitude).",
+        "3. Chemical Disinfection: If boiling is impossible, add 2-4 drops of household liquid bleach (5-6% sodium hypochlorite) per liter; wait 30 minutes before drinking."
+      ],
+      "steps_hi": [
+        "1. तलछट जमाव: गंदे बाढ़ के पानी को बर्तन में 2-3 घंटे स्थिर रहने दें; ऊपर का साफ पानी अलग कर लें।",
+        "2. उबालना: साफ पानी को कम से कम 1 मिनट (पहाड़ी ऊंचाई पर 3 मिनट) तक तेजी से उबालें।",
+        "3. रासायनिक कीटाणुशोधन: यदि उबालना संभव न हो, तो प्रति लीटर पानी में 2-4 बूंद लिक्विड ब्लीच डालें और पीने से पहले 30 मिनट प्रतीक्षा करें।"
+      ],
+      "warnings": [
+        "NEVER consume untreated floodwater directly; floodwaters carry high sewage contamination."
+      ],
+      "warnings_hi": [
+        "बाढ़ के दूषित पानी को कभी भी सीधे न पिएं; इसमें गंभीर संक्रामक बीमारियां हो सकती हैं।"
+      ]
+    }
+  ]
+}

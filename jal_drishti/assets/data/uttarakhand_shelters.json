@@ -1,0 +1,767 @@
+[
+  {
+    "id": "shelter_747102861",
+    "name": "Emergency Shelter (29.407, 79.440)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 29.40661,
+    "longitude": 79.43972,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_1356150439",
+    "name": "Emergency Shelter (30.842, 78.466)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.84217,
+    "longitude": 78.46634,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_4207539022",
+    "name": "Civil Services Institute (CSI)",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 30.39854,
+    "longitude": 78.08701,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_4277813970",
+    "name": "Emergency Shelter (30.648, 79.581)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.648,
+    "longitude": 79.58058,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_4384016392",
+    "name": "Chabad House - \u05d1\u05d9\u05ea \u05d7\u05d1\"\u05d3",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 30.12877,
+    "longitude": 78.32693,
+    "phone": "91-2442626"
+  },
+  {
+    "id": "shelter_4591296589",
+    "name": "Spiritual Peace Centre",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 30.12224,
+    "longitude": 78.14252,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_4890157223",
+    "name": "Himalayan farm project",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 29.31323,
+    "longitude": 79.50909,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_5040710622",
+    "name": "Emergency Shelter (30.651, 79.583)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.65132,
+    "longitude": 79.58341,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_5040710625",
+    "name": "Emergency Shelter (30.658, 79.587)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.65773,
+    "longitude": 79.58673,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_5040710627",
+    "name": "Emergency Shelter (30.722, 79.590)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.72213,
+    "longitude": 79.58961,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_5040736222",
+    "name": "Emergency Shelter (30.719, 79.590)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.71881,
+    "longitude": 79.58993,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_5040737421",
+    "name": "Emergency Shelter (30.715, 79.590)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.71518,
+    "longitude": 79.59037,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_5869331753",
+    "name": "Emergency Shelter (30.349, 78.067)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.34867,
+    "longitude": 78.06673,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_5933577656",
+    "name": "Sardar Patel Hall",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 30.46925,
+    "longitude": 78.05486,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_5933584727",
+    "name": "Sampoornanad Auditorium",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 30.46909,
+    "longitude": 78.05566,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6520171763",
+    "name": "Campsite shelter",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.49202,
+    "longitude": 79.31162,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6520210189",
+    "name": "Emergency Shelter (30.252, 79.994)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.25159,
+    "longitude": 79.99412,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6520213427",
+    "name": "Laaldaru",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.84472,
+    "longitude": 78.54826,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6520217465",
+    "name": "Kansai Bugyal",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.48678,
+    "longitude": 79.29762,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6520222521",
+    "name": "Emergency Shelter (30.629, 78.935)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.62928,
+    "longitude": 78.93534,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6520252414",
+    "name": "Shepherd shelter",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.06174,
+    "longitude": 80.49756,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6520259463",
+    "name": "Emergency Shelter (30.213, 80.271)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.21272,
+    "longitude": 80.27121,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6520261509",
+    "name": "Emergency Shelter (30.180, 80.271)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.18043,
+    "longitude": 80.27133,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6532601968",
+    "name": "Emergency Shelter (31.023, 78.188)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.0229,
+    "longitude": 78.18805,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6532616062",
+    "name": "Emergency Shelter (31.032, 78.178)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.03203,
+    "longitude": 78.17793,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6532625907",
+    "name": "Emergency Shelter (31.011, 78.180)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.01089,
+    "longitude": 78.18022,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6855183086",
+    "name": "Chabad of Kasar Devi",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 29.65194,
+    "longitude": 79.66617,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_6953301791",
+    "name": "Savitri Nursing Home, Dehradun",
+    "type": "social_facility",
+    "capacity": "50-200",
+    "latitude": 30.31675,
+    "longitude": 78.02427,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_7021512785",
+    "name": "Alakh Yog",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 30.07367,
+    "longitude": 78.27212,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_7428743152",
+    "name": "Emergency Shelter (30.103, 78.295)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.10337,
+    "longitude": 78.29493,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_7832951659",
+    "name": "Emergency Shelter (30.201, 80.264)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.20083,
+    "longitude": 80.26445,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_7833009775",
+    "name": "Emergency Shelter (30.480, 79.788)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.4795,
+    "longitude": 79.78804,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_7835769678",
+    "name": "Emergency Shelter (30.611, 78.883)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.61091,
+    "longitude": 78.88271,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_7841015759",
+    "name": "Emergency Shelter (31.146, 78.259)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.14626,
+    "longitude": 78.25879,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_8073439819",
+    "name": "Emergency Shelter (30.497, 79.750)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.49685,
+    "longitude": 79.74972,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_8073442817",
+    "name": "Emergency Shelter (30.497, 79.731)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.49668,
+    "longitude": 79.73082,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_8149377341",
+    "name": "Emergency Shelter (30.587, 78.141)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.58689,
+    "longitude": 78.14073,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_8195695930",
+    "name": "Cave",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.70494,
+    "longitude": 78.40732,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_8223867471",
+    "name": "Emergency Shelter (30.582, 78.761)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.58178,
+    "longitude": 78.76133,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_8324662042",
+    "name": "Emergency Shelter (30.079, 80.114)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.07921,
+    "longitude": 80.11356,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_8753580083",
+    "name": "Siddhanath AasharBheemdatt 9, Kanchanpur",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 29.06432,
+    "longitude": 80.13141,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_8753580096",
+    "name": "Gaushala, Bheemdatta 9, Kanchanpur",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 29.07024,
+    "longitude": 80.13941,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_9126260117",
+    "name": "Max Antara Senior Living Dehradun",
+    "type": "social_facility",
+    "capacity": "50-200",
+    "latitude": 30.3962,
+    "longitude": 78.06688,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_9841505478",
+    "name": "Rain shelter",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.71685,
+    "longitude": 79.07222,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_9857199417",
+    "name": "Emergency Shelter (30.693, 79.056)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.69345,
+    "longitude": 79.05597,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_10941749133",
+    "name": "Emergency Shelter (31.051, 78.142)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.05055,
+    "longitude": 78.14231,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_10941781180",
+    "name": "Cave shelter",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.01309,
+    "longitude": 78.18106,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_10959438891",
+    "name": "Cave shelter",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.69181,
+    "longitude": 78.65738,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11070849936",
+    "name": "Emergency Shelter (28.980, 79.381)",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 28.97964,
+    "longitude": 79.38067,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11160126123",
+    "name": "Emergency Shelter (30.706, 79.596)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.70565,
+    "longitude": 79.59564,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11160127888",
+    "name": "Emergency Shelter (30.705, 79.597)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.70491,
+    "longitude": 79.59695,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11163209946",
+    "name": "Emergency Shelter (30.644, 79.579)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.64413,
+    "longitude": 79.57913,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11163213526",
+    "name": "Emergency Shelter (30.656, 79.586)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.65562,
+    "longitude": 79.58623,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11361825103",
+    "name": "Rajeev Gandhi Panchayat Bhawan",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 29.21944,
+    "longitude": 79.4751,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11508050823",
+    "name": "Emergency Shelter (30.475, 79.288)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.47465,
+    "longitude": 79.2883,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11508050824",
+    "name": "Emergency Shelter (30.475, 79.287)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.47452,
+    "longitude": 79.2873,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11508050825",
+    "name": "Emergency Shelter (30.473, 79.285)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.47316,
+    "longitude": 79.28474,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11508050826",
+    "name": "Emergency Shelter (30.472, 79.286)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.47249,
+    "longitude": 79.28628,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11836680658",
+    "name": "Emergency Shelter (29.573, 78.904)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 29.57292,
+    "longitude": 78.90408,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11972428760",
+    "name": "Emergency Shelter (30.626, 78.672)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.62647,
+    "longitude": 78.67152,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11972462298",
+    "name": "Emergency Shelter (30.619, 78.669)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.61889,
+    "longitude": 78.66939,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11972465103",
+    "name": "Emergency Shelter (30.709, 78.676)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.70891,
+    "longitude": 78.67617,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11972483824",
+    "name": "Emergency Shelter (30.704, 78.753)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.70422,
+    "longitude": 78.75303,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11972506986",
+    "name": "Metal roof",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.61158,
+    "longitude": 78.66108,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_11972512308",
+    "name": "Emergency Shelter (30.616, 78.669)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.61595,
+    "longitude": 78.66854,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_12119806301",
+    "name": "IRDT Auditorium",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 30.32447,
+    "longitude": 78.05027,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_12595999684",
+    "name": "Emergency Shelter (28.979, 79.397)",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 28.97861,
+    "longitude": 79.39744,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_12745253001",
+    "name": "Nirmal Baba Ashram",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 30.95006,
+    "longitude": 79.051,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_12750131001",
+    "name": "Prachin Valmiki Luv Kush Sitabani Ashram",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 29.40824,
+    "longitude": 79.22231,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_12817943201",
+    "name": "Hansmukhi",
+    "type": "social_facility",
+    "capacity": "50-200",
+    "latitude": 30.35983,
+    "longitude": 78.08816,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_13164657704",
+    "name": "gazebo",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.08617,
+    "longitude": 78.26809,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_13164788506",
+    "name": "Emergency Shelter (31.122, 78.393)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.12193,
+    "longitude": 78.39312,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_13164793814",
+    "name": "Rainbasera",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.11588,
+    "longitude": 78.40142,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_13164802415",
+    "name": "Emergency Shelter (31.124, 78.378)",
+    "type": "shelter",
+    "capacity": "50-200",
+    "latitude": 31.12377,
+    "longitude": 78.37755,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_13684522601",
+    "name": "Serene Greens Villas & Apartments",
+    "type": "social_facility",
+    "capacity": "50-200",
+    "latitude": 30.34665,
+    "longitude": 77.89589,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_13983560928",
+    "name": "Deopa's House",
+    "type": "social_facility",
+    "capacity": "50-200",
+    "latitude": 29.06756,
+    "longitude": 79.32611,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_14096119501",
+    "name": "Kalash Mandap",
+    "type": "community_centre",
+    "capacity": "50-200",
+    "latitude": 29.20138,
+    "longitude": 78.95631,
+    "phone": "+91 1070"
+  },
+  {
+    "id": "shelter_s1",
+    "name": "Dehradun Disaster Relief Centre",
+    "type": "shelter",
+    "capacity": "500",
+    "latitude": 30.3165,
+    "longitude": 78.0322,
+    "phone": "+91 135 2710334"
+  },
+  {
+    "id": "shelter_s2",
+    "name": "Rishikesh Flood Evacuation Camp",
+    "type": "shelter",
+    "capacity": "350",
+    "latitude": 30.0869,
+    "longitude": 78.2676,
+    "phone": "+91 135 2430015"
+  },
+  {
+    "id": "shelter_s3",
+    "name": "Haridwar Safe Shelter Complex",
+    "type": "shelter",
+    "capacity": "600",
+    "latitude": 29.9457,
+    "longitude": 78.1642,
+    "phone": "+91 1334 226500"
+  },
+  {
+    "id": "shelter_s4",
+    "name": "Uttarkashi Emergency Relief Hall",
+    "type": "shelter",
+    "capacity": "250",
+    "latitude": 30.7268,
+    "longitude": 78.4354,
+    "phone": "+91 1374 222107"
+  },
+  {
+    "id": "shelter_s5",
+    "name": "Rudraprayag Mountain Shelter",
+    "type": "shelter",
+    "capacity": "200",
+    "latitude": 30.2844,
+    "longitude": 78.9811,
+    "phone": "+91 1364 233300"
+  },
+  {
+    "id": "shelter_s6",
+    "name": "Chamoli Relief & Medical Post",
+    "type": "shelter",
+    "capacity": "300",
+    "latitude": 30.4124,
+    "longitude": 79.319,
+    "phone": "+91 1372 252101"
+  },
+  {
+    "id": "shelter_s7",
+    "name": "Nainital Lake Safety Shelter",
+    "type": "shelter",
+    "capacity": "250",
+    "latitude": 29.3919,
+    "longitude": 79.4542,
+    "phone": "+91 135 258900"
+  },
+  {
+    "id": "shelter_s8",
+    "name": "Joshimath High-Ground Evacuation Point",
+    "type": "shelter",
+    "capacity": "400",
+    "latitude": 30.5564,
+    "longitude": 79.5658,
+    "phone": "+91 1372 222120"
+  }
+]

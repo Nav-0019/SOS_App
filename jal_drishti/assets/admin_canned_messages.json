@@ -1,0 +1,4 @@
+{
+  "ADM_RESCUE": "[JALDRISHTI-ALERT] CRITICAL RESCUE REQ\nUser: {USER_NAME} ({USER_PHONE})\nLocation: https://maps.google.com/?q={LAT},{LNG} (Alt: {ALT}m)\nVictim Count: {GROUP_COUNT}\nMedical Hazard: {HAZARD_TYPE}\nDevice Batt: {BATTERY}%",
+  "ADM_MESH_BRIDGE": "[JALDRISHTI-MESH-RELAY] HAZARD REPORT\nSource Node: {NODE_ID} | Hops: {HOP_COUNT}\nIncident: {HAZARD_TYPE} @ {LAT},{LNG}\nTimestamp: {TIMESTAMP}\nStatus: Unverified (Mesh Upvotes: {UPVOTES})"
+}

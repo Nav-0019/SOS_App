@@ -1,0 +1,136 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-09-01",
+  "state": "Uttarakhand",
+  "state_helplines": {
+    "disaster_management_control_room": {
+      "state_code": "1070",
+      "landline": "0135-2710334",
+      "mobile": "+919412079088",
+      "description": "USDMA State Emergency Operation Centre (SEOC)"
+    },
+    "police_emergency": "112",
+    "ambulance_service": "108",
+    "fire_service": "101",
+    "women_helpline": "1090",
+    "child_helpline": "1098"
+  },
+  "force_headquarters": {
+    "ndrf_control_room": {
+      "phone": "011-24363260",
+      "mobile": "+919711077372",
+      "description": "NDRF HQ New Delhi Emergency Response Cell"
+    },
+    "sdrf_uttarakhand": {
+      "phone": "0135-2412192",
+      "mobile": "+918077880808",
+      "description": "SDRF Battalion HQ Jolly Grant Dehradun"
+    }
+  },
+  "district_control_rooms": [
+    {
+      "district": "Dehradun",
+      "deoc_number": "0135-2726066",
+      "toll_free": "1077",
+      "hq_location": "Dehradun",
+      "lat": 30.3165,
+      "lng": 78.0322
+    },
+    {
+      "district": "Uttarkashi",
+      "deoc_number": "01374-222722",
+      "toll_free": "1077",
+      "hq_location": "Uttarkashi",
+      "lat": 30.7268,
+      "lng": 78.4432
+    },
+    {
+      "district": "Chamoli",
+      "deoc_number": "01372-251437",
+      "toll_free": "1077",
+      "hq_location": "Gopeshwar",
+      "lat": 30.4088,
+      "lng": 79.3243
+    },
+    {
+      "district": "Rudraprayag",
+      "deoc_number": "01364-233727",
+      "toll_free": "1077",
+      "hq_location": "Rudraprayag",
+      "lat": 30.2844,
+      "lng": 78.9811
+    },
+    {
+      "district": "Tehri Garhwal",
+      "deoc_number": "01376-233433",
+      "toll_free": "1077",
+      "hq_location": "New Tehri",
+      "lat": 30.3753,
+      "lng": 78.4802
+    },
+    {
+      "district": "Pauri Garhwal",
+      "deoc_number": "01368-221840",
+      "toll_free": "1077",
+      "hq_location": "Pauri",
+      "lat": 30.1481,
+      "lng": 78.7806
+    },
+    {
+      "district": "Pithoragarh",
+      "deoc_number": "01396-226388",
+      "toll_free": "1077",
+      "hq_location": "Pithoragarh",
+      "lat": 29.5829,
+      "lng": 80.2182
+    },
+    {
+      "district": "Champawat",
+      "deoc_number": "01396-230819",
+      "toll_free": "1077",
+      "hq_location": "Champawat",
+      "lat": 29.3369,
+      "lng": 80.0924
+    },
+    {
+      "district": "Almora",
+      "deoc_number": "01396-230007",
+      "toll_free": "1077",
+      "hq_location": "Almora",
+      "lat": 29.5971,
+      "lng": 79.6591
+    },
+    {
+      "district": "Bageshwar",
+      "deoc_number": "01363-220817",
+      "toll_free": "1077",
+      "hq_location": "Bageshwar",
+      "lat": 29.8404,
+      "lng": 79.7694
+    },
+    {
+      "district": "Nainital",
+      "deoc_number": "01394-231178",
+      "toll_free": "1077",
+      "hq_location": "Nainital",
+      "lat": 29.3919,
+      "lng": 79.4542
+    },
+    {
+      "district": "Udham Singh Nagar",
+      "deoc_number": "01394-250250",
+      "toll_free": "1077",
+      "hq_location": "Rudrapur",
+      "lat": 28.9800,
+      "lng": 79.4000
+    },
+    {
+      "district": "Haridwar",
+      "deoc_number": "01334-223999",
+      "toll_free": "1077",
+      "hq_location": "Haridwar",
+      "lat": 29.9457,
+      "lng": 78.1642
+    }
+  ]
+}

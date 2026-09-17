@@ -1,0 +1,37 @@
+# ─── Ignore everything at the repo root ───────────────────────────────────────
+/*
+
+# ─── Whitelist: only the Flutter app folder is shared ─────────────────────────
+!/jal_drishti/
+!.gitignore
+
+# ─── Flutter / Dart build & tool outputs ──────────────────────────────────────
+jal_drishti/.dart_tool/
+jal_drishti/.pub/
+jal_drishti/.pub-cache/
+jal_drishti/build/
+jal_drishti/.flutter-plugins
+jal_drishti/.flutter-plugins-dependencies
+
+# ─── Android build artifacts ───────────────────────────────────────────────────
+jal_drishti/android/app/debug/
+jal_drishti/android/app/profile/
+jal_drishti/android/app/release/
+jal_drishti/android/.gradle/
+jal_drishti/android/local.properties
+
+# ─── iOS build artifacts ────────────────────────────────────────────────────────
+jal_drishti/ios/Flutter/.last_build_id
+jal_drishti/ios/Pods/
+jal_drishti/ios/.symlinks/
+
+# ─── IDE & OS noise ────────────────────────────────────────────────────────────
+.DS_Store
+.history
+*.log
+*.class
+*.pyc
+.idea/
+*.iml
+*.ipr
+*.iws

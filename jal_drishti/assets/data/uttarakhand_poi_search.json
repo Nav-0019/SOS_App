@@ -1,0 +1,1670 @@
+[
+  {
+    "name": "Sitarganj",
+    "category": "City / Town",
+    "latitude": 28.92774,
+    "longitude": 79.70289
+  },
+  {
+    "name": "Pantnagar",
+    "category": "City / Town",
+    "latitude": 29.0284,
+    "longitude": 79.48321
+  },
+  {
+    "name": "R\u0101mnagar",
+    "category": "City / Town",
+    "latitude": 29.39484,
+    "longitude": 79.12693
+  },
+  {
+    "name": "Almora",
+    "category": "City / Town",
+    "latitude": 29.6017,
+    "longitude": 79.66326
+  },
+  {
+    "name": "Pithoragarh",
+    "category": "City / Town",
+    "latitude": 29.58587,
+    "longitude": 80.21517
+  },
+  {
+    "name": "B\u0101geshwar",
+    "category": "City / Town",
+    "latitude": 29.8376,
+    "longitude": 79.7714
+  },
+  {
+    "name": "Baijn\u0101th",
+    "category": "City / Town",
+    "latitude": 29.90861,
+    "longitude": 79.61505
+  },
+  {
+    "name": "Munsyari",
+    "category": "City / Town",
+    "latitude": 30.06546,
+    "longitude": 80.23453
+  },
+  {
+    "name": "Karnaprayag",
+    "category": "City / Town",
+    "latitude": 30.25965,
+    "longitude": 79.21707
+  },
+  {
+    "name": "Nandapray\u0101g",
+    "category": "City / Town",
+    "latitude": 30.33188,
+    "longitude": 79.31992
+  },
+  {
+    "name": "New Tehri",
+    "category": "City / Town",
+    "latitude": 30.37445,
+    "longitude": 78.43277
+  },
+  {
+    "name": "Mussoorie",
+    "category": "City / Town",
+    "latitude": 30.4569,
+    "longitude": 78.07829
+  },
+  {
+    "name": "Tanakpur",
+    "category": "City / Town",
+    "latitude": 29.07405,
+    "longitude": 80.1096
+  },
+  {
+    "name": "Champawat",
+    "category": "City / Town",
+    "latitude": 29.33727,
+    "longitude": 80.09209
+  },
+  {
+    "name": "Dehradun",
+    "category": "City / Town",
+    "latitude": 30.32556,
+    "longitude": 78.04368
+  },
+  {
+    "name": "Ukhimath",
+    "category": "City / Town",
+    "latitude": 30.51395,
+    "longitude": 79.09476
+  },
+  {
+    "name": "Paonta Sahib",
+    "category": "City / Town",
+    "latitude": 30.43844,
+    "longitude": 77.62118
+  },
+  {
+    "name": "Chakrata",
+    "category": "City / Town",
+    "latitude": 30.70132,
+    "longitude": 77.87034
+  },
+  {
+    "name": "Didihat",
+    "category": "City / Town",
+    "latitude": 29.80179,
+    "longitude": 80.25238
+  },
+  {
+    "name": "Gangolih\u0101t",
+    "category": "City / Town",
+    "latitude": 29.65729,
+    "longitude": 80.03998
+  },
+  {
+    "name": "Thal",
+    "category": "City / Town",
+    "latitude": 29.8272,
+    "longitude": 80.13916
+  },
+  {
+    "name": "Berin\u0101g",
+    "category": "City / Town",
+    "latitude": 29.77662,
+    "longitude": 80.05313
+  },
+  {
+    "name": "Dh\u0101rchula",
+    "category": "City / Town",
+    "latitude": 29.84911,
+    "longitude": 80.54147
+  },
+  {
+    "name": "Badrinath",
+    "category": "City / Town",
+    "latitude": 30.74233,
+    "longitude": 79.49303
+  },
+  {
+    "name": "R\u0101nikhet",
+    "category": "City / Town",
+    "latitude": 29.64374,
+    "longitude": 79.42812
+  },
+  {
+    "name": "Haldwani",
+    "category": "City / Town",
+    "latitude": 29.21448,
+    "longitude": 79.5279
+  },
+  {
+    "name": "Kapkot",
+    "category": "City / Town",
+    "latitude": 29.94785,
+    "longitude": 79.90139
+  },
+  {
+    "name": "Rudrapur",
+    "category": "City / Town",
+    "latitude": 28.97072,
+    "longitude": 79.39728
+  },
+  {
+    "name": "Lalkuan",
+    "category": "City / Town",
+    "latitude": 29.06786,
+    "longitude": 79.51661
+  },
+  {
+    "name": "Josh\u012bmath",
+    "category": "City / Town",
+    "latitude": 30.55558,
+    "longitude": 79.56126
+  },
+  {
+    "name": "Kathgodam",
+    "category": "City / Town",
+    "latitude": 29.26623,
+    "longitude": 79.54374
+  },
+  {
+    "name": "Bhowali",
+    "category": "City / Town",
+    "latitude": 29.3835,
+    "longitude": 79.51884
+  },
+  {
+    "name": "Nainital",
+    "category": "City / Town",
+    "latitude": 29.39053,
+    "longitude": 79.46087
+  },
+  {
+    "name": "Rudraprayag",
+    "category": "City / Town",
+    "latitude": 30.28656,
+    "longitude": 78.98072
+  },
+  {
+    "name": "Pokhri",
+    "category": "City / Town",
+    "latitude": 30.34424,
+    "longitude": 79.19907
+  },
+  {
+    "name": "Gopeshwar",
+    "category": "City / Town",
+    "latitude": 30.40878,
+    "longitude": 79.31855
+  },
+  {
+    "name": "Gadarpur",
+    "category": "City / Town",
+    "latitude": 29.04236,
+    "longitude": 79.24851
+  },
+  {
+    "name": "Gairsain",
+    "category": "City / Town",
+    "latitude": 30.05462,
+    "longitude": 79.28999
+  },
+  {
+    "name": "Gauchar",
+    "category": "City / Town",
+    "latitude": 30.2889,
+    "longitude": 79.15708
+  },
+  {
+    "name": "Narayn Bagar",
+    "category": "City / Town",
+    "latitude": 30.14511,
+    "longitude": 79.37348
+  },
+  {
+    "name": "Betalghat",
+    "category": "City / Town",
+    "latitude": 29.55597,
+    "longitude": 79.34189
+  },
+  {
+    "name": "Gh\u0101t",
+    "category": "City / Town",
+    "latitude": 30.25848,
+    "longitude": 79.44812
+  },
+  {
+    "name": "Kaladhungi",
+    "category": "City / Town",
+    "latitude": 29.28463,
+    "longitude": 79.34726
+  },
+  {
+    "name": "Gangotri",
+    "category": "City / Town",
+    "latitude": 30.99437,
+    "longitude": 78.93987
+  },
+  {
+    "name": "Lansdowne",
+    "category": "City / Town",
+    "latitude": 29.83784,
+    "longitude": 78.68176
+  },
+  {
+    "name": "Pauri",
+    "category": "City / Town",
+    "latitude": 30.14799,
+    "longitude": 78.77595
+  },
+  {
+    "name": "Srinagar",
+    "category": "City / Town",
+    "latitude": 30.22313,
+    "longitude": 78.78995
+  },
+  {
+    "name": "Satpuli",
+    "category": "City / Town",
+    "latitude": 29.91727,
+    "longitude": 78.71044
+  },
+  {
+    "name": "Dhumakot",
+    "category": "City / Town",
+    "latitude": 29.75015,
+    "longitude": 79.01574
+  },
+  {
+    "name": "Nainidanda",
+    "category": "City / Town",
+    "latitude": 29.68049,
+    "longitude": 79.02907
+  },
+  {
+    "name": "Jaspur",
+    "category": "City / Town",
+    "latitude": 29.27872,
+    "longitude": 78.82771
+  },
+  {
+    "name": "Jaihar\u012bkh\u0101l",
+    "category": "City / Town",
+    "latitude": 29.86118,
+    "longitude": 78.68153
+  },
+  {
+    "name": "Uttarkashi",
+    "category": "City / Town",
+    "latitude": 30.7291,
+    "longitude": 78.44035
+  },
+  {
+    "name": "Gangori",
+    "category": "City / Town",
+    "latitude": 30.7572,
+    "longitude": 78.45375
+  },
+  {
+    "name": "Kotdwar",
+    "category": "City / Town",
+    "latitude": 29.74598,
+    "longitude": 78.52014
+  },
+  {
+    "name": "Chinyalisaur",
+    "category": "City / Town",
+    "latitude": 30.57441,
+    "longitude": 78.32766
+  },
+  {
+    "name": "Devprayag",
+    "category": "City / Town",
+    "latitude": 30.14614,
+    "longitude": 78.59858
+  },
+  {
+    "name": "Tiuni",
+    "category": "City / Town",
+    "latitude": 30.94312,
+    "longitude": 77.84848
+  },
+  {
+    "name": "Chhutmalpur",
+    "category": "City / Town",
+    "latitude": 30.0363,
+    "longitude": 77.75182
+  },
+  {
+    "name": "Purkaji",
+    "category": "City / Town",
+    "latitude": 29.65778,
+    "longitude": 77.84114
+  },
+  {
+    "name": "Kedarnath",
+    "category": "City / Town",
+    "latitude": 30.73389,
+    "longitude": 79.06691
+  },
+  {
+    "name": "Kichha",
+    "category": "City / Town",
+    "latitude": 28.91032,
+    "longitude": 79.51894
+  },
+  {
+    "name": "Kashipur",
+    "category": "City / Town",
+    "latitude": 29.21176,
+    "longitude": 78.96173
+  },
+  {
+    "name": "Haridw\u0101r",
+    "category": "City / Town",
+    "latitude": 29.93845,
+    "longitude": 78.1453
+  },
+  {
+    "name": "Manglaur",
+    "category": "City / Town",
+    "latitude": 29.79215,
+    "longitude": 77.87606
+  },
+  {
+    "name": "Laksar",
+    "category": "City / Town",
+    "latitude": 29.74744,
+    "longitude": 78.02381
+  },
+  {
+    "name": "Sult\u0101npur",
+    "category": "City / Town",
+    "latitude": 29.75879,
+    "longitude": 78.10786
+  },
+  {
+    "name": "Barkot",
+    "category": "City / Town",
+    "latitude": 30.80861,
+    "longitude": 78.20596
+  },
+  {
+    "name": "Dakpathar",
+    "category": "City / Town",
+    "latitude": 30.49488,
+    "longitude": 77.79293
+  },
+  {
+    "name": "Rishikesh",
+    "category": "City / Town",
+    "latitude": 30.10865,
+    "longitude": 78.29162
+  },
+  {
+    "name": "Bajpur",
+    "category": "City / Town",
+    "latitude": 29.16128,
+    "longitude": 79.15386
+  },
+  {
+    "name": "Roorkee",
+    "category": "City / Town",
+    "latitude": 29.86935,
+    "longitude": 77.89021
+  },
+  {
+    "name": "Khat\u012bma",
+    "category": "City / Town",
+    "latitude": 28.91972,
+    "longitude": 79.97026
+  },
+  {
+    "name": "Virbhadra",
+    "category": "City / Town",
+    "latitude": 30.07927,
+    "longitude": 78.25201
+  },
+  {
+    "name": "Majhola",
+    "category": "City / Town",
+    "latitude": 28.81663,
+    "longitude": 79.8852
+  },
+  {
+    "name": "Khalanga",
+    "category": "City / Town",
+    "latitude": 29.84356,
+    "longitude": 80.53987
+  },
+  {
+    "name": "Agastmuni",
+    "category": "City / Town",
+    "latitude": 30.39196,
+    "longitude": 79.02604
+  },
+  {
+    "name": "Ganeshpur",
+    "category": "City / Town",
+    "latitude": 30.75529,
+    "longitude": 78.47547
+  },
+  {
+    "name": "Bhimtal",
+    "category": "City / Town",
+    "latitude": 29.35061,
+    "longitude": 79.55417
+  },
+  {
+    "name": "Sainj",
+    "category": "City / Town",
+    "latitude": 30.94608,
+    "longitude": 77.85101
+  },
+  {
+    "name": "Babathan",
+    "category": "City / Town",
+    "latitude": 28.87048,
+    "longitude": 80.07965
+  },
+  {
+    "name": "Sultanpur",
+    "category": "City / Town",
+    "latitude": 29.15749,
+    "longitude": 79.05657
+  },
+  {
+    "name": "Kota B\u0101gh",
+    "category": "City / Town",
+    "latitude": 29.37649,
+    "longitude": 79.31957
+  },
+  {
+    "name": "Dineshpur",
+    "category": "City / Town",
+    "latitude": 29.04957,
+    "longitude": 79.32193
+  },
+  {
+    "name": "Central Hope Town",
+    "category": "City / Town",
+    "latitude": 30.35122,
+    "longitude": 77.86503
+  },
+  {
+    "name": "Shaktigarh",
+    "category": "City / Town",
+    "latitude": 29.00872,
+    "longitude": 79.65004
+  },
+  {
+    "name": "Chandigarh",
+    "category": "State Capital",
+    "latitude": 30.73129,
+    "longitude": 76.78664
+  },
+  {
+    "name": "Shimla",
+    "category": "State Capital",
+    "latitude": 31.1044,
+    "longitude": 77.1723
+  },
+  {
+    "name": "Dehradun",
+    "category": "State Capital",
+    "latitude": 30.32432,
+    "longitude": 78.04186
+  },
+  {
+    "name": "Jaipur",
+    "category": "State Capital",
+    "latitude": 26.92103,
+    "longitude": 75.81427
+  },
+  {
+    "name": "Lucknow",
+    "category": "State Capital",
+    "latitude": 26.84267,
+    "longitude": 80.92689
+  },
+  {
+    "name": "Haridwar",
+    "category": "Key Uttarakhand Region",
+    "latitude": 29.9457,
+    "longitude": 78.1642
+  },
+  {
+    "name": "Yamunotri",
+    "category": "Key Uttarakhand Region",
+    "latitude": 31.014,
+    "longitude": 78.46
+  },
+  {
+    "name": "Chamoli",
+    "category": "Key Uttarakhand Region",
+    "latitude": 30.4124,
+    "longitude": 79.319
+  },
+  {
+    "name": "Joshimath",
+    "category": "Key Uttarakhand Region",
+    "latitude": 30.5564,
+    "longitude": 79.5658
+  },
+  {
+    "name": "Tehri",
+    "category": "Key Uttarakhand Region",
+    "latitude": 30.392,
+    "longitude": 78.48
+  },
+  {
+    "name": "Naini",
+    "category": "Hospital",
+    "latitude": 29.65609,
+    "longitude": 79.92633
+  },
+  {
+    "name": "Landour Community hospital",
+    "category": "Hospital",
+    "latitude": 30.45898,
+    "longitude": 78.09511
+  },
+  {
+    "name": "Heart Clinic",
+    "category": "Hospital",
+    "latitude": 30.31794,
+    "longitude": 78.05002
+  },
+  {
+    "name": "General Hospital",
+    "category": "Hospital",
+    "latitude": 30.3194,
+    "longitude": 78.05032
+  },
+  {
+    "name": "CMI",
+    "category": "Hospital",
+    "latitude": 30.31219,
+    "longitude": 78.04749
+  },
+  {
+    "name": "Ashirwad Hospital",
+    "category": "Hospital",
+    "latitude": 30.3329,
+    "longitude": 78.00862
+  },
+  {
+    "name": "Astha Hospital",
+    "category": "Hospital",
+    "latitude": 30.33297,
+    "longitude": 78.01011
+  },
+  {
+    "name": "Wynberg Health Center",
+    "category": "Hospital",
+    "latitude": 30.44881,
+    "longitude": 78.09017
+  },
+  {
+    "name": "Hospital (30.572, 78.004)",
+    "category": "Hospital",
+    "latitude": 30.5721,
+    "longitude": 78.00435
+  },
+  {
+    "name": "Dr. Usha's Nirvana Clinic",
+    "category": "Hospital",
+    "latitude": 30.12816,
+    "longitude": 78.32177
+  },
+  {
+    "name": "Dr. Arora's Clinic",
+    "category": "Hospital",
+    "latitude": 30.12821,
+    "longitude": 78.32242
+  },
+  {
+    "name": "Synergy Hospital;Synergy Institute Of Medical Science",
+    "category": "Hospital",
+    "latitude": 30.3381,
+    "longitude": 78.01354
+  },
+  {
+    "name": "Ramkrishan Mission Hospital",
+    "category": "Hospital",
+    "latitude": 29.93298,
+    "longitude": 78.14811
+  },
+  {
+    "name": "Matrichaya Hospital",
+    "category": "Hospital",
+    "latitude": 29.93165,
+    "longitude": 78.13659
+  },
+  {
+    "name": "City Hospital",
+    "category": "Hospital",
+    "latitude": 29.93375,
+    "longitude": 78.13363
+  },
+  {
+    "name": "City Hospital",
+    "category": "Hospital",
+    "latitude": 29.93344,
+    "longitude": 78.13375
+  },
+  {
+    "name": "Hospital (30.107, 78.290)",
+    "category": "Hospital",
+    "latitude": 30.1069,
+    "longitude": 78.2899
+  },
+  {
+    "name": "SUBHARTI HOSPITAL",
+    "category": "Hospital",
+    "latitude": 30.34309,
+    "longitude": 77.9596
+  },
+  {
+    "name": "INFIRMARY",
+    "category": "Hospital",
+    "latitude": 30.41697,
+    "longitude": 77.96767
+  },
+  {
+    "name": "Government Doon Hospital",
+    "category": "Hospital",
+    "latitude": 30.3196,
+    "longitude": 78.0423
+  },
+  {
+    "name": "wedding by fourth munky",
+    "category": "Hospital",
+    "latitude": 30.31843,
+    "longitude": 78.04248
+  },
+  {
+    "name": "Ayurveda Center",
+    "category": "Hospital",
+    "latitude": 30.12396,
+    "longitude": 78.32992
+  },
+  {
+    "name": "GOVERNMENT VETERINARY HOSPITAL",
+    "category": "Hospital",
+    "latitude": 30.73394,
+    "longitude": 78.42594
+  },
+  {
+    "name": "Deen Dayal Upadhyay hospital",
+    "category": "Hospital",
+    "latitude": 30.32078,
+    "longitude": 78.05767
+  },
+  {
+    "name": "Mother And Child Hospital, Haridwar",
+    "category": "Hospital",
+    "latitude": 29.87223,
+    "longitude": 77.87628
+  },
+  {
+    "name": "AIIMS's Blood Bank Rishikesh",
+    "category": "Hospital",
+    "latitude": 30.08088,
+    "longitude": 78.28613
+  },
+  {
+    "name": "AIIMS Blood Bank, Rishikesh",
+    "category": "Hospital",
+    "latitude": 30.08088,
+    "longitude": 78.28648
+  },
+  {
+    "name": "Baunthiyal Nursing Home",
+    "category": "Hospital",
+    "latitude": 30.28373,
+    "longitude": 77.99774
+  },
+  {
+    "name": "Lavanya Hospital, Udham Singh Nagar",
+    "category": "Hospital",
+    "latitude": 29.2109,
+    "longitude": 78.9373
+  },
+  {
+    "name": "St. Joseph's Hospital",
+    "category": "Hospital",
+    "latitude": 29.86803,
+    "longitude": 77.88572
+  },
+  {
+    "name": "Sambhavi Hospital Maternity Home",
+    "category": "Hospital",
+    "latitude": 29.21919,
+    "longitude": 79.51552
+  },
+  {
+    "name": "Gupta Health Care",
+    "category": "Hospital",
+    "latitude": 28.91774,
+    "longitude": 79.51947
+  },
+  {
+    "name": "Shri Mahant Indiresh Hospital",
+    "category": "Hospital",
+    "latitude": 30.30478,
+    "longitude": 78.0209
+  },
+  {
+    "name": "Amrit Hospital",
+    "category": "Hospital",
+    "latitude": 28.97182,
+    "longitude": 79.3946
+  },
+  {
+    "name": "Aadya heart care centre",
+    "category": "Hospital",
+    "latitude": 30.31892,
+    "longitude": 78.05064
+  },
+  {
+    "name": "Dr. Turna Surgical Hospital",
+    "category": "Hospital",
+    "latitude": 28.92072,
+    "longitude": 79.69973
+  },
+  {
+    "name": "Pragati Hospital and Physiotherapy Centre",
+    "category": "Hospital",
+    "latitude": 29.20562,
+    "longitude": 78.94214
+  },
+  {
+    "name": "Drishti Eye Institute",
+    "category": "Hospital",
+    "latitude": 30.32754,
+    "longitude": 78.04794
+  },
+  {
+    "name": "Sarthak Nursing Home, Haridwar",
+    "category": "Hospital",
+    "latitude": 29.86695,
+    "longitude": 77.88702
+  },
+  {
+    "name": "Hi - Tech Eye And Laser Centre",
+    "category": "Hospital",
+    "latitude": 29.21463,
+    "longitude": 78.95546
+  },
+  {
+    "name": "Karnatic Hospital",
+    "category": "Hospital",
+    "latitude": 29.33801,
+    "longitude": 80.09433
+  },
+  {
+    "name": "Tewari Maternity Center and Nursing Home",
+    "category": "Hospital",
+    "latitude": 29.21701,
+    "longitude": 79.51806
+  },
+  {
+    "name": "Atul Nursing Home",
+    "category": "Hospital",
+    "latitude": 29.87271,
+    "longitude": 77.88167
+  },
+  {
+    "name": "Surya Hospital, Dehradun",
+    "category": "Hospital",
+    "latitude": 30.29094,
+    "longitude": 78.04985
+  },
+  {
+    "name": "National Hospital, Haridwar",
+    "category": "Hospital",
+    "latitude": 29.76155,
+    "longitude": 78.03636
+  },
+  {
+    "name": "Param Hospital, Dehradun",
+    "category": "Hospital",
+    "latitude": 30.30683,
+    "longitude": 78.05405
+  },
+  {
+    "name": "Gupta Nursing Home and Heart Centre",
+    "category": "Hospital",
+    "latitude": 29.21396,
+    "longitude": 78.96402
+  },
+  {
+    "name": "Ramakrishna Mission Sevashrama, Haridwar",
+    "category": "Hospital",
+    "latitude": 29.93259,
+    "longitude": 78.14753
+  },
+  {
+    "name": "CGHS Dispensary",
+    "category": "Hospital",
+    "latitude": 30.31089,
+    "longitude": 78.01214
+  },
+  {
+    "name": "Chamunda Hospital",
+    "category": "Hospital",
+    "latitude": 29.22231,
+    "longitude": 78.96609
+  },
+  {
+    "name": "Jagdamba Heat Care and Maternity Centre",
+    "category": "Hospital",
+    "latitude": 29.21861,
+    "longitude": 79.51732
+  },
+  {
+    "name": "Ananya Maternity and Medical Center",
+    "category": "Hospital",
+    "latitude": 29.92344,
+    "longitude": 78.11775
+  },
+  {
+    "name": "Anand Nursing Home",
+    "category": "Hospital",
+    "latitude": 29.86853,
+    "longitude": 77.87978
+  },
+  {
+    "name": "Anant Nursing Home",
+    "category": "Hospital",
+    "latitude": 29.8687,
+    "longitude": 77.88034
+  },
+  {
+    "name": "Yash Respiratory and Medical Disease Centre",
+    "category": "Hospital",
+    "latitude": 30.31635,
+    "longitude": 78.05441
+  },
+  {
+    "name": "Abhilasha Eye+ Maternity Hospital",
+    "category": "Hospital",
+    "latitude": 29.85653,
+    "longitude": 77.87925
+  },
+  {
+    "name": "Vishal Eye Hospital, Dehradun",
+    "category": "Hospital",
+    "latitude": 30.33637,
+    "longitude": 78.02238
+  },
+  {
+    "name": "Vardaan Children Hospital",
+    "category": "Hospital",
+    "latitude": 30.33388,
+    "longitude": 78.02355
+  },
+  {
+    "name": "Meher Hospital (Vaish Nursing Home)",
+    "category": "Hospital",
+    "latitude": 30.33506,
+    "longitude": 78.06017
+  },
+  {
+    "name": "Joshi Hospital, Udham Singh Nagar",
+    "category": "Hospital",
+    "latitude": 29.20567,
+    "longitude": 78.95329
+  },
+  {
+    "name": "Jyoti Ent centre And Nursing Home",
+    "category": "Hospital",
+    "latitude": 29.22455,
+    "longitude": 78.96679
+  },
+  {
+    "name": "Vaidya Chandra Prakash Cancer Research Foundation",
+    "category": "Hospital",
+    "latitude": 30.28204,
+    "longitude": 78.00252
+  },
+  {
+    "name": "Uttranchal Ayurvedic Hospital",
+    "category": "Hospital",
+    "latitude": 30.38206,
+    "longitude": 78.08864
+  },
+  {
+    "name": "Jeevandeep Hospital, Udham Singh Nagar",
+    "category": "Hospital",
+    "latitude": 28.98453,
+    "longitude": 79.40045
+  },
+  {
+    "name": "Joshi Health Care Hospital",
+    "category": "Hospital",
+    "latitude": 28.91646,
+    "longitude": 79.96665
+  },
+  {
+    "name": "Jeevan Rekha Hospital, Udham Singh Nagar",
+    "category": "Hospital",
+    "latitude": 29.23672,
+    "longitude": 78.9647
+  },
+  {
+    "name": "Harisar Hospital Child And Maternity Hospital",
+    "category": "Hospital",
+    "latitude": 28.98674,
+    "longitude": 79.40105
+  },
+  {
+    "name": "Jamuna Memorial Hospital",
+    "category": "Hospital",
+    "latitude": 28.91616,
+    "longitude": 79.9652
+  },
+  {
+    "name": "Guru Ramdas Hospital",
+    "category": "Hospital",
+    "latitude": 28.94068,
+    "longitude": 79.79985
+  },
+  {
+    "name": "Ahan Hospital",
+    "category": "Hospital",
+    "latitude": 28.98243,
+    "longitude": 79.39813
+  },
+  {
+    "name": "Ambeka Eye Hospital",
+    "category": "Hospital",
+    "latitude": 29.20462,
+    "longitude": 78.97073
+  },
+  {
+    "name": "Arora Bone Hospital and Surgical Centre",
+    "category": "Hospital",
+    "latitude": 28.90625,
+    "longitude": 79.5068
+  },
+  {
+    "name": "Atul Hospital",
+    "category": "Hospital",
+    "latitude": 28.98116,
+    "longitude": 79.39764
+  },
+  {
+    "name": "Ananya Hospital",
+    "category": "Hospital",
+    "latitude": 29.22483,
+    "longitude": 78.96084
+  },
+  {
+    "name": "Anita Memorial Nursing Home",
+    "category": "Hospital",
+    "latitude": 29.19901,
+    "longitude": 78.97955
+  },
+  {
+    "name": "Bhagwati Devi Eye Hospital",
+    "category": "Hospital",
+    "latitude": 29.20072,
+    "longitude": 78.98045
+  },
+  {
+    "name": "Ayushman Hospital",
+    "category": "Hospital",
+    "latitude": 29.16798,
+    "longitude": 79.15042
+  },
+  {
+    "name": "B. D. Pathak Hospital",
+    "category": "Hospital",
+    "latitude": 28.98185,
+    "longitude": 79.39892
+  },
+  {
+    "name": "Chamunda Surgical and Leaposcopy Center",
+    "category": "Hospital",
+    "latitude": 29.22221,
+    "longitude": 78.96588
+  },
+  {
+    "name": "Child Care Centre",
+    "category": "Hospital",
+    "latitude": 28.9827,
+    "longitude": 79.39809
+  },
+  {
+    "name": "Emergency Shelter (29.407, 79.440)",
+    "category": "Shelter",
+    "latitude": 29.40661,
+    "longitude": 79.43972
+  },
+  {
+    "name": "Emergency Shelter (30.842, 78.466)",
+    "category": "Shelter",
+    "latitude": 30.84217,
+    "longitude": 78.46634
+  },
+  {
+    "name": "Civil Services Institute (CSI)",
+    "category": "Shelter",
+    "latitude": 30.39854,
+    "longitude": 78.08701
+  },
+  {
+    "name": "Emergency Shelter (30.648, 79.581)",
+    "category": "Shelter",
+    "latitude": 30.648,
+    "longitude": 79.58058
+  },
+  {
+    "name": "Chabad House - \u05d1\u05d9\u05ea \u05d7\u05d1\"\u05d3",
+    "category": "Shelter",
+    "latitude": 30.12877,
+    "longitude": 78.32693
+  },
+  {
+    "name": "Spiritual Peace Centre",
+    "category": "Shelter",
+    "latitude": 30.12224,
+    "longitude": 78.14252
+  },
+  {
+    "name": "Himalayan farm project",
+    "category": "Shelter",
+    "latitude": 29.31323,
+    "longitude": 79.50909
+  },
+  {
+    "name": "Emergency Shelter (30.651, 79.583)",
+    "category": "Shelter",
+    "latitude": 30.65132,
+    "longitude": 79.58341
+  },
+  {
+    "name": "Emergency Shelter (30.658, 79.587)",
+    "category": "Shelter",
+    "latitude": 30.65773,
+    "longitude": 79.58673
+  },
+  {
+    "name": "Emergency Shelter (30.722, 79.590)",
+    "category": "Shelter",
+    "latitude": 30.72213,
+    "longitude": 79.58961
+  },
+  {
+    "name": "Emergency Shelter (30.719, 79.590)",
+    "category": "Shelter",
+    "latitude": 30.71881,
+    "longitude": 79.58993
+  },
+  {
+    "name": "Emergency Shelter (30.715, 79.590)",
+    "category": "Shelter",
+    "latitude": 30.71518,
+    "longitude": 79.59037
+  },
+  {
+    "name": "Emergency Shelter (30.349, 78.067)",
+    "category": "Shelter",
+    "latitude": 30.34867,
+    "longitude": 78.06673
+  },
+  {
+    "name": "Sardar Patel Hall",
+    "category": "Shelter",
+    "latitude": 30.46925,
+    "longitude": 78.05486
+  },
+  {
+    "name": "Sampoornanad Auditorium",
+    "category": "Shelter",
+    "latitude": 30.46909,
+    "longitude": 78.05566
+  },
+  {
+    "name": "Campsite shelter",
+    "category": "Shelter",
+    "latitude": 30.49202,
+    "longitude": 79.31162
+  },
+  {
+    "name": "Emergency Shelter (30.252, 79.994)",
+    "category": "Shelter",
+    "latitude": 30.25159,
+    "longitude": 79.99412
+  },
+  {
+    "name": "Laaldaru",
+    "category": "Shelter",
+    "latitude": 30.84472,
+    "longitude": 78.54826
+  },
+  {
+    "name": "Kansai Bugyal",
+    "category": "Shelter",
+    "latitude": 30.48678,
+    "longitude": 79.29762
+  },
+  {
+    "name": "Emergency Shelter (30.629, 78.935)",
+    "category": "Shelter",
+    "latitude": 30.62928,
+    "longitude": 78.93534
+  },
+  {
+    "name": "Shepherd shelter",
+    "category": "Shelter",
+    "latitude": 30.06174,
+    "longitude": 80.49756
+  },
+  {
+    "name": "Emergency Shelter (30.213, 80.271)",
+    "category": "Shelter",
+    "latitude": 30.21272,
+    "longitude": 80.27121
+  },
+  {
+    "name": "Emergency Shelter (30.180, 80.271)",
+    "category": "Shelter",
+    "latitude": 30.18043,
+    "longitude": 80.27133
+  },
+  {
+    "name": "Emergency Shelter (31.023, 78.188)",
+    "category": "Shelter",
+    "latitude": 31.0229,
+    "longitude": 78.18805
+  },
+  {
+    "name": "Emergency Shelter (31.032, 78.178)",
+    "category": "Shelter",
+    "latitude": 31.03203,
+    "longitude": 78.17793
+  },
+  {
+    "name": "Emergency Shelter (31.011, 78.180)",
+    "category": "Shelter",
+    "latitude": 31.01089,
+    "longitude": 78.18022
+  },
+  {
+    "name": "Chabad of Kasar Devi",
+    "category": "Shelter",
+    "latitude": 29.65194,
+    "longitude": 79.66617
+  },
+  {
+    "name": "Savitri Nursing Home, Dehradun",
+    "category": "Shelter",
+    "latitude": 30.31675,
+    "longitude": 78.02427
+  },
+  {
+    "name": "Alakh Yog",
+    "category": "Shelter",
+    "latitude": 30.07367,
+    "longitude": 78.27212
+  },
+  {
+    "name": "Emergency Shelter (30.103, 78.295)",
+    "category": "Shelter",
+    "latitude": 30.10337,
+    "longitude": 78.29493
+  },
+  {
+    "name": "Emergency Shelter (30.201, 80.264)",
+    "category": "Shelter",
+    "latitude": 30.20083,
+    "longitude": 80.26445
+  },
+  {
+    "name": "Emergency Shelter (30.480, 79.788)",
+    "category": "Shelter",
+    "latitude": 30.4795,
+    "longitude": 79.78804
+  },
+  {
+    "name": "Emergency Shelter (30.611, 78.883)",
+    "category": "Shelter",
+    "latitude": 30.61091,
+    "longitude": 78.88271
+  },
+  {
+    "name": "Emergency Shelter (31.146, 78.259)",
+    "category": "Shelter",
+    "latitude": 31.14626,
+    "longitude": 78.25879
+  },
+  {
+    "name": "Emergency Shelter (30.497, 79.750)",
+    "category": "Shelter",
+    "latitude": 30.49685,
+    "longitude": 79.74972
+  },
+  {
+    "name": "Emergency Shelter (30.497, 79.731)",
+    "category": "Shelter",
+    "latitude": 30.49668,
+    "longitude": 79.73082
+  },
+  {
+    "name": "Emergency Shelter (30.587, 78.141)",
+    "category": "Shelter",
+    "latitude": 30.58689,
+    "longitude": 78.14073
+  },
+  {
+    "name": "Cave",
+    "category": "Shelter",
+    "latitude": 30.70494,
+    "longitude": 78.40732
+  },
+  {
+    "name": "Emergency Shelter (30.582, 78.761)",
+    "category": "Shelter",
+    "latitude": 30.58178,
+    "longitude": 78.76133
+  },
+  {
+    "name": "Emergency Shelter (30.079, 80.114)",
+    "category": "Shelter",
+    "latitude": 30.07921,
+    "longitude": 80.11356
+  },
+  {
+    "name": "Siddhanath AasharBheemdatt 9, Kanchanpur",
+    "category": "Shelter",
+    "latitude": 29.06432,
+    "longitude": 80.13141
+  },
+  {
+    "name": "Gaushala, Bheemdatta 9, Kanchanpur",
+    "category": "Shelter",
+    "latitude": 29.07024,
+    "longitude": 80.13941
+  },
+  {
+    "name": "Max Antara Senior Living Dehradun",
+    "category": "Shelter",
+    "latitude": 30.3962,
+    "longitude": 78.06688
+  },
+  {
+    "name": "Rain shelter",
+    "category": "Shelter",
+    "latitude": 30.71685,
+    "longitude": 79.07222
+  },
+  {
+    "name": "Emergency Shelter (30.693, 79.056)",
+    "category": "Shelter",
+    "latitude": 30.69345,
+    "longitude": 79.05597
+  },
+  {
+    "name": "Emergency Shelter (31.051, 78.142)",
+    "category": "Shelter",
+    "latitude": 31.05055,
+    "longitude": 78.14231
+  },
+  {
+    "name": "Cave shelter",
+    "category": "Shelter",
+    "latitude": 31.01309,
+    "longitude": 78.18106
+  },
+  {
+    "name": "Cave shelter",
+    "category": "Shelter",
+    "latitude": 30.69181,
+    "longitude": 78.65738
+  },
+  {
+    "name": "Emergency Shelter (28.980, 79.381)",
+    "category": "Shelter",
+    "latitude": 28.97964,
+    "longitude": 79.38067
+  },
+  {
+    "name": "Emergency Shelter (30.706, 79.596)",
+    "category": "Shelter",
+    "latitude": 30.70565,
+    "longitude": 79.59564
+  },
+  {
+    "name": "Emergency Shelter (30.705, 79.597)",
+    "category": "Shelter",
+    "latitude": 30.70491,
+    "longitude": 79.59695
+  },
+  {
+    "name": "Emergency Shelter (30.644, 79.579)",
+    "category": "Shelter",
+    "latitude": 30.64413,
+    "longitude": 79.57913
+  },
+  {
+    "name": "Emergency Shelter (30.656, 79.586)",
+    "category": "Shelter",
+    "latitude": 30.65562,
+    "longitude": 79.58623
+  },
+  {
+    "name": "Rajeev Gandhi Panchayat Bhawan",
+    "category": "Shelter",
+    "latitude": 29.21944,
+    "longitude": 79.4751
+  },
+  {
+    "name": "Emergency Shelter (30.475, 79.288)",
+    "category": "Shelter",
+    "latitude": 30.47465,
+    "longitude": 79.2883
+  },
+  {
+    "name": "Emergency Shelter (30.475, 79.287)",
+    "category": "Shelter",
+    "latitude": 30.47452,
+    "longitude": 79.2873
+  },
+  {
+    "name": "Emergency Shelter (30.473, 79.285)",
+    "category": "Shelter",
+    "latitude": 30.47316,
+    "longitude": 79.28474
+  },
+  {
+    "name": "Emergency Shelter (30.472, 79.286)",
+    "category": "Shelter",
+    "latitude": 30.47249,
+    "longitude": 79.28628
+  },
+  {
+    "name": "Emergency Shelter (29.573, 78.904)",
+    "category": "Shelter",
+    "latitude": 29.57292,
+    "longitude": 78.90408
+  },
+  {
+    "name": "Emergency Shelter (30.626, 78.672)",
+    "category": "Shelter",
+    "latitude": 30.62647,
+    "longitude": 78.67152
+  },
+  {
+    "name": "Emergency Shelter (30.619, 78.669)",
+    "category": "Shelter",
+    "latitude": 30.61889,
+    "longitude": 78.66939
+  },
+  {
+    "name": "Emergency Shelter (30.709, 78.676)",
+    "category": "Shelter",
+    "latitude": 30.70891,
+    "longitude": 78.67617
+  },
+  {
+    "name": "Emergency Shelter (30.704, 78.753)",
+    "category": "Shelter",
+    "latitude": 30.70422,
+    "longitude": 78.75303
+  },
+  {
+    "name": "Metal roof",
+    "category": "Shelter",
+    "latitude": 30.61158,
+    "longitude": 78.66108
+  },
+  {
+    "name": "Emergency Shelter (30.616, 78.669)",
+    "category": "Shelter",
+    "latitude": 30.61595,
+    "longitude": 78.66854
+  },
+  {
+    "name": "IRDT Auditorium",
+    "category": "Shelter",
+    "latitude": 30.32447,
+    "longitude": 78.05027
+  },
+  {
+    "name": "Emergency Shelter (28.979, 79.397)",
+    "category": "Shelter",
+    "latitude": 28.97861,
+    "longitude": 79.39744
+  },
+  {
+    "name": "Nirmal Baba Ashram",
+    "category": "Shelter",
+    "latitude": 30.95006,
+    "longitude": 79.051
+  },
+  {
+    "name": "Prachin Valmiki Luv Kush Sitabani Ashram",
+    "category": "Shelter",
+    "latitude": 29.40824,
+    "longitude": 79.22231
+  },
+  {
+    "name": "Hansmukhi",
+    "category": "Shelter",
+    "latitude": 30.35983,
+    "longitude": 78.08816
+  },
+  {
+    "name": "gazebo",
+    "category": "Shelter",
+    "latitude": 31.08617,
+    "longitude": 78.26809
+  },
+  {
+    "name": "Emergency Shelter (31.122, 78.393)",
+    "category": "Shelter",
+    "latitude": 31.12193,
+    "longitude": 78.39312
+  },
+  {
+    "name": "Rainbasera",
+    "category": "Shelter",
+    "latitude": 31.11588,
+    "longitude": 78.40142
+  },
+  {
+    "name": "Emergency Shelter (31.124, 78.378)",
+    "category": "Shelter",
+    "latitude": 31.12377,
+    "longitude": 78.37755
+  },
+  {
+    "name": "Serene Greens Villas & Apartments",
+    "category": "Shelter",
+    "latitude": 30.34665,
+    "longitude": 77.89589
+  },
+  {
+    "name": "Deopa's House",
+    "category": "Shelter",
+    "latitude": 29.06756,
+    "longitude": 79.32611
+  },
+  {
+    "name": "Kalash Mandap",
+    "category": "Shelter",
+    "latitude": 29.20138,
+    "longitude": 78.95631
+  },
+  {
+    "name": "Dehradun Disaster Relief Centre",
+    "category": "Shelter",
+    "latitude": 30.3165,
+    "longitude": 78.0322
+  },
+  {
+    "name": "Rishikesh Flood Evacuation Camp",
+    "category": "Shelter",
+    "latitude": 30.0869,
+    "longitude": 78.2676
+  },
+  {
+    "name": "Haridwar Safe Shelter Complex",
+    "category": "Shelter",
+    "latitude": 29.9457,
+    "longitude": 78.1642
+  },
+  {
+    "name": "Uttarkashi Emergency Relief Hall",
+    "category": "Shelter",
+    "latitude": 30.7268,
+    "longitude": 78.4354
+  },
+  {
+    "name": "Rudraprayag Mountain Shelter",
+    "category": "Shelter",
+    "latitude": 30.2844,
+    "longitude": 78.9811
+  },
+  {
+    "name": "Chamoli Relief & Medical Post",
+    "category": "Shelter",
+    "latitude": 30.4124,
+    "longitude": 79.319
+  },
+  {
+    "name": "Nainital Lake Safety Shelter",
+    "category": "Shelter",
+    "latitude": 29.3919,
+    "longitude": 79.4542
+  },
+  {
+    "name": "Joshimath High-Ground Evacuation Point",
+    "category": "Shelter",
+    "latitude": 30.5564,
+    "longitude": 79.5658
+  },
+  {
+    "name": "Aviation Research Centre, RAW Headquarter Helipad",
+    "category": "Emergency Helipad",
+    "latitude": 30.70645,
+    "longitude": 77.8615
+  },
+  {
+    "name": "Emergency Helipad (29.592, 80.239)",
+    "category": "Emergency Helipad",
+    "latitude": 29.59211,
+    "longitude": 80.23931
+  },
+  {
+    "name": "Emergency Helipad (31.035, 78.759)",
+    "category": "Emergency Helipad",
+    "latitude": 31.03475,
+    "longitude": 78.759
+  },
+  {
+    "name": "Emergency Helipad (31.035, 78.759)",
+    "category": "Emergency Helipad",
+    "latitude": 31.03487,
+    "longitude": 78.75938
+  },
+  {
+    "name": "Emergency Helipad (30.572, 78.005)",
+    "category": "Emergency Helipad",
+    "latitude": 30.57167,
+    "longitude": 78.0046
+  },
+  {
+    "name": "Emergency Helipad (31.364, 79.132)",
+    "category": "Emergency Helipad",
+    "latitude": 31.36387,
+    "longitude": 79.13183
+  },
+  {
+    "name": "Emergency Helipad (30.434, 80.473)",
+    "category": "Emergency Helipad",
+    "latitude": 30.43385,
+    "longitude": 80.47323
+  },
+  {
+    "name": "Emergency Helipad (30.950, 79.051)",
+    "category": "Emergency Helipad",
+    "latitude": 30.95041,
+    "longitude": 79.0509
+  },
+  {
+    "name": "Emergency Helipad (29.847, 79.592)",
+    "category": "Emergency Helipad",
+    "latitude": 29.84736,
+    "longitude": 79.59235
+  },
+  {
+    "name": "Emergency Helipad (30.222, 80.910)",
+    "category": "Emergency Helipad",
+    "latitude": 30.22227,
+    "longitude": 80.91022
+  },
+  {
+    "name": "Emergency Helipad (30.239, 80.976)",
+    "category": "Emergency Helipad",
+    "latitude": 30.23878,
+    "longitude": 80.97589
+  },
+  {
+    "name": "degree college helipad",
+    "category": "Emergency Helipad",
+    "latitude": 29.84589,
+    "longitude": 79.7822
+  },
+  {
+    "name": "Emergency Helipad (29.378, 79.542)",
+    "category": "Emergency Helipad",
+    "latitude": 29.3785,
+    "longitude": 79.54205
+  },
+  {
+    "name": "Emergency Helipad (30.554, 79.562)",
+    "category": "Emergency Helipad",
+    "latitude": 30.55418,
+    "longitude": 79.56174
+  },
+  {
+    "name": "HELIPAD",
+    "category": "Emergency Helipad",
+    "latitude": 30.59628,
+    "longitude": 79.87262
+  },
+  {
+    "name": "Emergency Helipad (31.023, 78.045)",
+    "category": "Emergency Helipad",
+    "latitude": 31.0225,
+    "longitude": 78.04513
+  },
+  {
+    "name": "Emergency Helipad (30.694, 78.073)",
+    "category": "Emergency Helipad",
+    "latitude": 30.69365,
+    "longitude": 78.07251
+  }
+]
