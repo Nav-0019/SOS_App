@@ -12,6 +12,8 @@ include: package:flutter_lints/flutter.yaml
 analyzer:
   exclude:
     - "**/*.g.dart"
+    - build/**
+    - android/**
   errors:
     experimental_member_use: ignore
     deprecated_member_use: ignore

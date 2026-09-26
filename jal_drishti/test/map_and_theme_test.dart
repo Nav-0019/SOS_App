@@ -31,9 +31,9 @@ void main() {
   group('MapSignalController & Features', () {
     final controller = MapSignalController();
 
-    test('Initializes with Dehradun default center and redesign defaults', () {
-      expect(controller.currentLocationSignal.value.latitude, closeTo(30.3165, 0.01));
-      expect(controller.currentLocationSignal.value.longitude, closeTo(78.0322, 0.01));
+    test('Initializes with default center and redesign defaults', () {
+      expect(controller.currentLocationSignal.value.latitude, closeTo(20.5937, 0.01));
+      expect(controller.currentLocationSignal.value.longitude, closeTo(78.9629, 0.01));
       expect(controller.showHospitalsSignal.value, isTrue);
       expect(controller.showRiversSignal.value, isTrue);
       expect(controller.showSheltersSignal.value, isFalse);

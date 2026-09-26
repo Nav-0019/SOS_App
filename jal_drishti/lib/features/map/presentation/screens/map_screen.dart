@@ -64,7 +64,9 @@ class _MapScreenState extends State<MapScreen> {
   }
 
   void _downloadMapTiles() {
+    final bounds = _mapController.camera.visibleBounds;
     _controller.startTileDownload(
+      bounds: bounds,
       onSuccess: (msg) {
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
@@ -179,7 +181,7 @@ class _MapScreenState extends State<MapScreen> {
       return Scaffold(
         backgroundColor: AmoledColors.background,
         appBar: AppBar(
-          title: Text(isHindi ? 'ऑफलाइन मानचित्र' : 'OFFLINE MAP — UK'),
+          title: Text(isHindi ? 'ऑफलाइन मानचित्र' : 'OFFLINE MAP'),
           centerTitle: true,
           actions: const [
             LanguageToggleButton(),
@@ -610,14 +612,14 @@ class _MapScreenState extends State<MapScreen> {
                               } else {
                                 _mapController.move(
                                   MapSignalController.defaultViewportCenter,
-                                  9.5,
+                                  5.0,
                                 );
                                 ScaffoldMessenger.of(context).showSnackBar(
                                   SnackBar(
                                     content: Text(
                                       isHindi
-                                          ? 'जीपीएस अनुपलब्ध — उत्तराखंड दृश्य पर रीसेट किया गया'
-                                          : 'GPS unavailable — Reset to Uttarakhand viewport',
+                                          ? 'जीपीएस अनुपलब्ध — भारत दृश्य पर रीसेट किया गया'
+                                          : 'GPS unavailable — Reset to India viewport',
                                     ),
                                     backgroundColor: AmoledColors.surface,
                                     duration: const Duration(seconds: 2),
@@ -898,8 +900,8 @@ class _MapScreenState extends State<MapScreen> {
                             children: [
                               Text(
                                 isHindi
-                                    ? 'ऑफ़लाइन मानचित्र डाउनलोड करें'
-                                    : 'Download Offline Map (UK)',
+                                    ? 'दृश्यमान क्षेत्र डाउनलोड करें'
+                                    : 'Download Visible Region',
                                 style: const TextStyle(
                                   fontSize: 12,
                                   color: AmoledColors.textPrimary,

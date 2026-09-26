@@ -8,7 +8,6 @@ import '../../../shared/models/schemas.dart';
 class WeatherService {
   static const String _apiKey = 'c35686a27f506310cadfda8efd175fcd';
   static const String _baseUrl = 'https://api.openweathermap.org/data/2.5/forecast';
-  static const String _defaultCity = 'Dehradun';
   static const double _defaultLat = 30.3165;
   static const double _defaultLon = 78.0322;
 
@@ -34,7 +33,6 @@ class WeatherService {
       // Fallback to default Dehradun coordinates
     }
 
-    final locationKey = '${lat.toStringAsFixed(2)}_${lon.toStringAsFixed(2)}';
     final url = Uri.parse('$_baseUrl?lat=$lat&lon=$lon&appid=$_apiKey&units=metric');
 
     try {

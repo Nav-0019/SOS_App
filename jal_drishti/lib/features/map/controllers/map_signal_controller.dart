@@ -13,12 +13,12 @@ class MapSignalController {
 
   final MapDataService dataService = MapDataService();
 
-  static const LatLng defaultViewportCenter = LatLng(30.3165, 78.0322);
+  static const LatLng defaultViewportCenter = LatLng(20.5937, 78.9629);
 
   final currentLocationSignal = signal<LatLng>(defaultViewportCenter);
   final userGpsLocationSignal = signal<LatLng?>(null);
   final hasGpsFixSignal = signal<bool>(false);
-  final zoomLevelSignal = signal<double>(9.5);
+  final zoomLevelSignal = signal<double>(5.0);
   final isOfflineMapReadySignal = signal<bool>(false);
 
   // Offline tile cache signals
@@ -71,6 +71,7 @@ class MapSignalController {
   }
 
   Future<void> startTileDownload({
+    required LatLngBounds bounds,
     required void Function(String) onSuccess,
     required void Function(String) onError,
   }) async {
@@ -90,12 +91,7 @@ class MapSignalController {
     downloadProgressSignal.value = 0.0;
     downloadStatusSignal.value = 'Starting download...';
 
-    final region = RectangleRegion(
-      LatLngBounds(
-        const LatLng(28.71, 77.57),
-        const LatLng(31.46, 81.03),
-      ),
-    );
+    final region = RectangleRegion(bounds);
 
     final downloadableRegion = region.toDownloadable(
       minZoom: 6,

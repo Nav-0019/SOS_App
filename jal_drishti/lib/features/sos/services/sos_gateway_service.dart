@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:isar/isar.dart';
-import 'package:battery_plus/battery_plus.dart';
 import 'package:jal_drishti/shared/models/schemas.dart';
 import 'package:jal_drishti/shared/database/isar_service.dart';
 import 'package:jal_drishti/features/mesh/services/ble_mesh_service.dart';
